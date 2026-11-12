@@ -1,0 +1,12 @@
+# Everything needed to run the notebooks and the app
+pandas>=2.0
+numpy>=1.24
+scipy
+matplotlib
+seaborn
+scikit-learn
+joblib
+plotly>=5.20
+streamlit>=1.37
+openpyxl
+pypdf

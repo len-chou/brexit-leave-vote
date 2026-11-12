@@ -1,0 +1,17 @@
+table,item,rows_affected,action
+gb_areas,two results files,382,"vote counts identical; the Pct_ columns are proportions in one file and percentages in the other, so all shares are recalculated from counts"
+gb_areas,"Northern Ireland, Gibraltar",2,removed: census and other sheets have no comparable rows
+gb_areas,child poverty: pre-2013/14 area codes,8,"recoded old codes to the codes used in Results (Northumberland, Gateshead, East Dunbartonshire, Glasgow, 4 Hertfordshire districts)"
+gb_areas,EP 2014: Southend row,1,row had the name in the code column; code restored so UKIP share and turnout both load
+gb_areas,pct_nonuk_born,40,"left blank, not imputed: the source has no Scottish councils and 8 small English districts. Exclude from GB-wide models"
+gb_areas,imd_score_england,54,"left blank, not imputed: English index only. Use for England-only analysis"
+gb_areas,"median_weekly_pay, child_poverty_pct",1,Isles of Scilly values are suppressed in the source; left blank
+gb_areas,"leave, pred, res",380,dropped from the earlier file: model outputs must not sit in the input table
+scotland,2014 results,32,taken from Commons Library RP14/50 table 2.1 and cross-checked with the DataShare file; joined on council name because DataShare uses older codes
+constituencies,party vote columns,650,blank means the party did not stand; filled with 0
+constituencies,remain + leave does not equal 100,3,"flagged, not corrected: Brighton Kemptown, Islwyn, Richmond Park. The source does not show which number is wrong"
+constituencies,TurnoutPct2015,129,left blank: cannot be rebuilt because the file has no electorate column
+tweets,ReadMe.txt,23,excluded from the load (it would otherwise appear as 23 broken rows)
+tweets,labels,5499483,"Positive=leave, Negative=remain, Neutral=neutral, following the dataset ReadMe"
+tweets,file for 2016-06-18 13:00 UTC,1,"hour has no file; kept as a blank row, not treated as zero"
+tweets,rows after polls closed,1440802,kept but flagged post_close; exclude from pre-vote analysis

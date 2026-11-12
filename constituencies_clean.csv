@@ -1,0 +1,651 @@
+Constituency,Region,Con,Lab,UKIP,LD,SNP,Grn,DUP,PC,SF,UUP,SDLP,Alliance,Ind,Spk,Others,ValidVotes,winner_2015,SecondPlace,WinningVotes,SecondPlaceVotes,WinningPct,Majority,MajorityPct,TurnoutPct2015,remain_pct_est,leave_pct_est,leave_margin_est,winner_2017,seat_changed_2017,remain_leave_sum_error
+Aberavon,Wales,3742,15416,4971,1397,0,711,0,3663,0,0,0,0,1137,0,486,31523,Labour,UKIP,15416,4971,48.9,10445,33.13,63.3,40.1,59.9,19.8,Labour,False,False
+Aberconwy,Wales,12513,8514,3467,1391,0,727,0,3536,0,0,0,0,0,0,0,30148,Conservative,Labour,12513,8514,39.69,3999,13.26,66.2,46.7,53.3,6.6,Conservative,False,False
+Aberdeen North,Scotland,5304,11397,0,2050,24793,0,0,0,0,0,0,0,0,0,392,43936,SNP,Labour,24793,11397,56.43,13396,30.49,64.9,57.0,43.0,-14.0,SNP,False,False
+Aberdeen South,Scotland,11087,12991,897,2252,20221,964,0,0,0,0,0,0,139,0,0,48551,SNP,Labour,20221,12991,41.65,7230,14.89,71.3,67.7,32.3,-35.4,Conservative,True,False
+Airdrie and Shotts,Scotland,3389,15108,1088,678,23887,0,0,0,0,0,0,0,136,0,0,44286,SNP,Labour,23887,15108,53.94,8779,19.82,66.4,60.0,40.0,-20.0,SNP,False,False
+Aldershot,South East,23369,8468,8253,4076,0,2025,0,0,0,0,0,0,0,0,0,46191,Conservative,Labour,23369,8468,50.59,14901,32.26,63.8,41.8,58.2,16.4,Conservative,False,False
+Aldridge-Brownhills,West Midlands,20558,8835,7751,1330,0,826,0,0,0,0,0,0,0,0,197,39497,Conservative,Labour,20558,8835,52.05,11723,29.68,65.6,32.2,67.8,35.6,Conservative,False,False
+Altrincham and Sale West,North West,26771,13481,4047,4235,0,1983,0,0,0,0,0,0,0,0,0,50517,Conservative,Labour,26771,13481,52.99,13290,26.31,70.2,61.6,38.4,-23.2,Conservative,False,False
+Alyn and Deeside,Wales,13197,16540,7260,1733,0,976,0,1608,0,0,0,0,0,0,0,41314,Labour,Conservative,16540,13197,40.03,3343,8.09,66.6,42.3,57.7,15.4,Labour,False,False
+Amber Valley,East Midlands,20106,15901,7263,1360,0,1087,0,0,0,0,0,0,0,0,0,45717,Conservative,Labour,20106,15901,43.98,4205,9.2,65.1,34.7,65.3,30.6,Conservative,False,False
+Angus,Scotland,12900,3919,1355,1216,24130,965,0,0,0,0,0,0,0,0,0,44485,SNP,Conservative,24130,12900,54.24,11230,25.24,67.6,51.9,48.1,-3.8,Conservative,True,False
+Arfon,Wales,3521,8122,2277,718,0,0,0,11790,0,0,0,0,0,0,409,26837,Plaid Cymru,Labour,11790,8122,43.93,3668,13.67,66.3,65.1,34.9,-30.2,Plaid Cymru,False,False
+Argyll and Bute,Scotland,7733,5394,1311,14486,22959,0,0,0,0,0,0,0,0,0,0,51883,SNP,Liberal Democrat,22959,14486,44.25,8473,16.33,75.3,60.6,39.4,-21.2,SNP,False,False
+Arundel and South Downs,South East,34331,6324,8154,4062,0,3606,0,0,0,0,0,0,0,0,0,56477,Conservative,UKIP,34331,8154,60.79,26177,46.35,73.1,49.4,50.6,1.2,Conservative,False,False
+Ashfield,East Midlands,10628,19448,10150,7030,0,0,0,0,0,0,0,0,0,0,153,47409,Labour,Conservative,19448,10628,41.02,8820,18.6,61.5,29.5,70.5,41.0,Labour,False,False
+Ashford,South East,30094,10580,10798,3433,0,2467,0,0,0,0,0,0,0,0,0,57372,Conservative,UKIP,30094,10798,52.45,19296,33.63,67.3,40.5,59.5,19.0,Conservative,False,False
+Ashton-under-Lyne,North West,8610,19366,8468,943,0,1531,0,0,0,0,0,0,0,0,0,38918,Labour,Conservative,19366,8610,49.76,10756,27.64,57.5,38.2,61.8,23.6,Labour,False,False
+Aylesbury,South East,28083,8391,10925,5885,0,2135,0,0,0,0,0,0,0,0,0,55419,Conservative,UKIP,28083,10925,50.67,17158,30.96,68.7,47.9,52.1,4.2,Conservative,False,False
+"Ayr, Carrick and Cumnock",Scotland,10355,14227,1280,855,25492,0,0,0,0,0,0,0,0,0,0,52209,SNP,Labour,25492,14227,48.83,11265,21.58,71.5,57.1,42.9,-14.2,Conservative,True,False
+Banbury,South East,30749,12354,8050,3440,0,2686,0,0,0,0,0,0,0,0,729,58008,Conservative,Labour,30749,12354,53.01,18395,31.71,65.6,49.5,50.5,1.0,Conservative,False,False
+Banff and Buchan,Scotland,13148,2647,0,2347,27487,0,0,0,0,0,0,0,0,0,0,45629,SNP,Conservative,27487,13148,60.24,14339,31.43,,46.0,54.0,8.0,Conservative,True,False
+Barking,London,7019,24826,9554,562,0,879,0,0,0,0,0,0,0,0,183,43023,Labour,UKIP,24826,9554,57.7,15272,35.5,,39.7,60.3,20.6,Labour,False,False
+Barnsley Central,Yorkshire and The Humber,5485,20376,7941,770,0,938,0,0,0,0,0,0,0,0,1050,36560,Labour,UKIP,20376,7941,55.73,12435,34.01,,31.7,68.3,36.6,Labour,False,False
+Barnsley East,Yorkshire and The Humber,5622,21079,9045,1217,0,0,0,0,0,0,0,0,0,0,1554,38517,Labour,UKIP,21079,9045,54.73,12034,31.24,,29.3,70.7,41.4,Labour,False,False
+Barrow and Furness,Yorkshire and The Humber,17525,18320,5070,1169,0,1061,0,0,0,0,0,0,130,0,0,43275,Labour,Conservative,18320,17525,42.33,795,1.84,,43.3,56.7,13.4,Labour,False,False
+Basildon and Billericay,East,22668,10186,8538,1636,0,0,0,0,0,0,0,0,0,0,0,43028,Conservative,Labour,22668,10186,52.68,12482,29.01,,33.1,66.9,33.8,Conservative,False,False
+Basingstoke,South East,25769,14706,8290,3919,0,0,0,0,0,0,0,0,392,0,0,53076,Conservative,Labour,25769,14706,48.55,11063,20.84,,46.4,53.6,7.2,Conservative,False,False
+Bassetlaw,East Midlands,15122,23965,7865,1331,0,1006,0,0,0,0,0,0,0,0,0,49289,Labour,Conservative,23965,15122,48.62,8843,17.94,,31.7,68.3,36.6,Labour,False,False
+Bath,South West,17833,6216,2922,14000,0,5634,0,0,0,0,0,0,499,0,63,47167,Conservative,Liberal Democrat,17833,14000,37.81,3833,8.13,,68.4,31.6,-36.8,Liberal Democrat,True,False
+Batley and Spen,Yorkshire and The Humber,15769,21826,9080,2396,0,1232,0,0,0,0,0,0,0,0,176,50479,Labour,Conservative,21826,15769,43.24,6057,12.0,,39.7,60.3,20.6,Labour,False,False
+Battersea,London,26730,18792,1586,2241,0,1682,0,0,0,0,0,0,0,0,0,51031,Conservative,Labour,26730,18792,52.38,7938,15.56,,77.0,23.0,-54.0,Labour,True,False
+Beaconsfield,South East,33621,6074,7310,3927,0,2231,0,0,0,0,0,0,0,0,0,53163,Conservative,UKIP,33621,7310,63.24,26311,49.49,,50.8,49.2,-1.6,Conservative,False,False
+Beckenham,London,27955,9484,6108,3378,0,1878,0,0,0,0,0,0,0,0,0,48803,Conservative,Labour,27955,9484,57.28,18471,37.85,,51.6,48.4,-3.2,Conservative,False,False
+Bedford,East,19625,18528,4434,1958,0,1412,0,0,0,0,0,0,129,0,0,46086,Conservative,Labour,19625,18528,42.58,1097,2.38,,48.1,51.9,3.8,Labour,True,False
+Belfast East,Northern Ireland,1121,0,0,0,0,1058,19575,0,823,0,127,16978,0,0,0,39682,Democratic Unionist,Alliance,19575,16978,49.3,2597,6.54,62.8,48.6,51.4,2.8,Democratic Unionist,False,False
+Belfast North,Northern Ireland,0,0,0,0,0,0,19096,0,13770,0,3338,2941,529,0,919,40593,Democratic Unionist,Sinn Fein,19096,13770,47.0,5326,13.12,59.2,50.4,49.6,-0.8,Democratic Unionist,False,False
+Belfast South,Northern Ireland,582,0,1900,0,0,2238,8654,0,5402,3549,9560,6711,0,0,361,38957,SDLP,Democratic Unionist,9560,8654,24.5,906,2.33,60.0,69.5,30.5,-39.0,Democratic Unionist,True,False
+Belfast West,Northern Ireland,34,0,765,0,0,0,2773,0,19163,1088,3475,636,0,0,7395,35329,Sinn Fein,Others,19163,7395,54.2,11768,33.31,56.3,74.1,25.9,-48.2,Sinn Fein,False,False
+Bermondsey and Old Southwark,London,6051,22146,3254,17657,0,2023,0,0,0,0,0,0,0,0,293,51424,Labour,Liberal Democrat,22146,17657,43.06,4489,8.73,,73.0,27.0,-46.0,Labour,False,False
+Berwick-upon-Tweed,North East,16603,6042,4513,11689,0,1488,0,0,0,0,0,0,0,0,88,40423,Conservative,Liberal Democrat,16603,11689,41.07,4914,12.16,,44.5,55.5,11.0,Conservative,False,False
+"Berwickshire, Roxburgh and Selkirk",Scotland,19817,2700,1316,10294,20145,631,0,0,0,0,0,0,0,0,135,55038,SNP,Conservative,20145,19817,36.6,328,0.6,,56.8,43.2,-13.6,Conservative,True,False
+Bethnal Green and Bow,London,8070,32387,3219,2395,0,4906,0,0,0,0,0,0,0,0,1947,52924,Labour,Conservative,32387,8070,61.19,24317,45.95,,69.1,30.9,-38.2,Labour,False,False
+Beverley and Holderness,Yorkshire and The Humber,25363,13160,8794,2900,0,1802,0,0,0,0,0,0,0,0,658,52677,Conservative,Labour,25363,13160,48.14,12203,23.17,,41.3,58.7,17.4,Conservative,False,False
+Bexhill and Battle,South East,30245,7797,10170,4199,0,2807,0,0,0,0,0,0,0,0,0,55218,Conservative,UKIP,30245,10170,54.77,20075,36.36,,42.4,57.6,15.2,Conservative,False,False
+Bexleyheath and Crayford,London,20643,11451,9182,1308,0,950,0,0,0,0,0,0,0,0,151,43685,Conservative,Labour,20643,11451,47.25,9192,21.04,,35.0,65.0,30.0,Conservative,False,False
+Birkenhead,North West,5816,26468,3838,1396,0,1626,0,0,0,0,0,0,0,0,0,39144,Labour,Conservative,26468,5816,67.62,20652,52.76,,48.3,51.7,3.4,Labour,False,False
+Birmingham Edgbaston,West Midlands,15812,18518,4154,1184,0,1371,0,0,0,0,0,0,91,0,163,41293,Labour,Conservative,18518,15812,44.85,2706,6.55,,52.7,47.3,-5.4,Labour,False,False
+Birmingham Erdington,West Midlands,10695,15824,6040,965,0,948,0,0,0,0,0,0,0,0,212,34684,Labour,Conservative,15824,10695,45.62,5129,14.79,,37.0,63.0,26.0,Labour,False,False
+Birmingham Hall Green,West Midlands,8329,28147,2131,5459,0,2200,0,0,0,0,0,0,0,0,780,47046,Labour,Conservative,28147,8329,59.83,19818,42.12,,66.4,33.6,-32.8,Labour,False,False
+Birmingham Hodge Hill,West Midlands,4707,28069,4651,2624,0,835,0,0,0,0,0,0,0,0,153,41039,Labour,Conservative,28069,4707,68.4,23362,56.93,,48.5,51.5,3.0,Labour,False,False
+Birmingham Ladywood,West Midlands,4576,26444,1805,1374,0,1501,0,0,0,0,0,0,0,0,216,35916,Labour,Conservative,26444,4576,73.63,21868,60.89,,64.4,35.6,-28.8,Labour,False,False
+Birmingham Northfield,West Midlands,15164,17673,7106,1349,0,1169,0,0,0,0,0,0,0,0,0,42461,Labour,Conservative,17673,15164,41.62,2509,5.91,,38.2,61.8,23.6,Labour,False,False
+Birmingham Perry Barr,West Midlands,8869,23697,5032,2001,0,1330,0,0,0,0,0,0,0,0,331,41260,Labour,Conservative,23697,8869,57.43,14828,35.94,,48.8,51.2,2.4,Labour,False,False
+Birmingham Selly Oak,West Midlands,13137,21584,5755,2517,0,2301,0,0,0,0,0,0,0,0,0,45294,Labour,Conservative,21584,13137,47.65,8447,18.65,,53.1,46.9,-6.2,Labour,False,False
+Birmingham Yardley,West Midlands,5760,17129,6637,10534,0,698,0,0,0,0,0,0,0,0,393,41151,Labour,Liberal Democrat,17129,10534,41.62,6595,16.03,,39.9,60.1,20.2,Labour,False,False
+Bishop Auckland,North East,12799,16307,7015,1723,0,1545,0,0,0,0,0,0,0,0,0,39389,Labour,Conservative,16307,12799,41.4,3508,8.91,,39.4,60.6,21.2,Labour,False,False
+Blackburn,North West,12002,24762,6280,955,0,0,0,0,0,0,0,0,0,0,0,43999,Labour,Conservative,24762,12002,56.28,12760,29.0,,46.3,53.7,7.4,Labour,False,False
+Blackley and Broughton,North West,5581,22982,6108,874,0,1567,0,0,0,0,0,0,0,0,0,37112,Labour,UKIP,22982,6108,61.93,16874,45.47,,48.7,51.3,2.6,Labour,False,False
+Blackpool North and Cleveleys,North West,17508,14168,5823,948,0,889,0,0,0,0,0,0,0,0,57,39393,Conservative,Labour,17508,14168,44.44,3340,8.48,,33.2,66.8,33.6,Conservative,False,False
+Blackpool South,North West,10963,13548,5613,743,0,841,0,0,0,0,0,0,728,0,0,32436,Labour,Conservative,13548,10963,41.77,2585,7.97,,32.2,67.8,35.6,Labour,False,False
+Blaenau Gwent,Wales,3419,18380,5677,620,0,738,0,2849,0,0,0,0,0,0,0,31683,Labour,UKIP,18380,5677,58.01,12703,40.09,,38.0,62.0,24.0,Labour,False,False
+Blaydon,North East,7838,22090,7863,5497,0,1648,0,0,0,0,0,0,0,0,0,44936,Labour,UKIP,22090,7863,49.16,14227,31.66,,43.7,56.3,12.6,Labour,False,False
+Blyth Valley,North East,8346,17813,8584,2265,0,1453,0,0,0,0,0,0,0,0,0,38461,Labour,UKIP,17813,8584,46.31,9229,24.0,,40.2,59.8,19.6,Labour,False,False
+Bognor Regis and Littlehampton,South East,24185,6508,10241,4240,0,1942,0,0,0,0,0,0,0,0,0,47116,Conservative,UKIP,24185,10241,51.33,13944,29.6,,35.8,64.2,28.4,Conservative,False,False
+Bolsover,East Midlands,10764,22542,9228,1464,0,0,0,0,0,0,0,0,0,0,0,43998,Labour,Conservative,22542,10764,51.23,11778,26.77,,29.8,70.2,40.4,Labour,False,False
+Bolton North East,North West,14164,18541,8117,1236,0,1103,0,0,0,0,0,0,0,0,0,43161,Labour,Conservative,18541,14164,42.96,4377,10.14,,42.3,57.7,15.4,Labour,False,False
+Bolton South East,North West,8289,20555,9627,1072,0,1200,0,0,0,0,0,0,0,0,0,40743,Labour,UKIP,20555,9627,50.45,10928,26.82,,36.6,63.4,26.8,Labour,False,False
+Bolton West,North West,19744,18943,7428,1947,0,0,0,0,0,0,0,0,321,0,209,48592,Conservative,Labour,19744,18943,40.63,801,1.65,,44.5,55.5,11.0,Conservative,False,False
+Bootle,North West,3639,33619,4915,978,0,1501,0,0,0,0,0,0,0,0,500,45152,Labour,UKIP,33619,4915,74.46,28704,63.57,,45.2,54.8,9.6,Labour,False,False
+Boston and Skegness,East Midlands,18981,7142,14645,1015,0,800,0,0,0,0,0,0,170,0,586,43339,Conservative,UKIP,18981,14645,43.8,4336,10.0,,25.1,74.9,49.8,Conservative,False,False
+Bosworth,East Midlands,22939,9354,9338,11951,0,0,0,0,0,0,0,0,0,0,0,53582,Conservative,Liberal Democrat,22939,11951,42.81,10988,20.51,67.0,39.3,60.7,21.4,Conservative,False,False
+Bournemouth East,South West,22060,7448,7401,3752,0,3263,0,0,0,0,0,0,0,0,903,44827,Conservative,Labour,22060,7448,49.21,14612,32.6,,46.5,53.5,7.0,Conservative,False,False
+Bournemouth West,South West,20155,7386,7745,3281,0,3107,0,0,0,0,0,0,0,0,99,41773,Conservative,UKIP,20155,7745,48.25,12410,29.71,,42.2,57.8,15.6,Conservative,False,False
+Bracknell,South East,29606,8956,8339,3983,0,2202,0,0,0,0,0,0,0,0,0,53086,Conservative,Labour,29606,8956,55.77,20650,38.9,,46.8,53.2,6.4,Conservative,False,False
+Bradford East,Yorkshire and The Humber,4682,19312,4103,12228,0,871,0,0,0,0,0,0,0,0,210,41406,Labour,Liberal Democrat,19312,12228,46.64,7084,17.11,,44.8,55.2,10.4,Labour,False,False
+Bradford South,Yorkshire and The Humber,9878,16328,9057,1094,0,1243,0,0,0,0,0,0,0,0,0,37600,Labour,Conservative,16328,9878,43.43,6450,17.15,,36.5,63.5,27.0,Labour,False,False
+Bradford West,Yorkshire and The Humber,6160,19977,3140,1173,0,1085,0,0,0,0,0,0,100,0,8655,40290,Labour,Others,19977,8655,49.58,11322,28.1,,53.3,46.7,-6.6,Labour,False,False
+Braintree,East,27071,9296,9461,2488,0,1564,0,0,0,0,0,0,295,0,108,50283,Conservative,UKIP,27071,9461,53.84,17610,35.02,,38.6,61.4,22.8,Conservative,False,False
+Brecon and Radnorshire,Wales,16453,5904,3338,11351,0,1261,0,1767,0,0,0,0,0,0,0,40074,Conservative,Liberal Democrat,16453,11351,41.06,5102,12.73,,48.3,51.7,3.4,Conservative,False,False
+Brent Central,London,9567,29216,1850,3937,0,1912,0,0,0,0,0,0,145,0,405,47032,Labour,Conservative,29216,9567,62.12,19649,41.78,,57.1,42.9,-14.2,Labour,False,False
+Brent North,London,17517,28351,2024,2607,0,1539,0,0,0,0,0,0,197,0,0,52235,Labour,Conservative,28351,17517,54.28,10834,20.74,,57.0,43.0,-14.0,Labour,False,False
+Brentford and Isleworth,London,24631,25096,3203,2305,0,2120,0,0,0,0,0,0,0,0,0,57355,Labour,Conservative,25096,24631,43.76,465,0.81,,56.7,43.3,-13.4,Labour,False,False
+Brentwood and Ongar,East,30534,6492,8724,4577,0,1397,0,0,0,0,0,0,0,0,173,51897,Conservative,UKIP,30534,8724,58.84,21810,42.03,,39.2,60.8,21.6,Conservative,False,False
+Bridgend,Wales,12697,14624,5911,1648,0,736,0,2784,0,0,0,0,763,0,290,39453,Labour,Conservative,14624,12697,37.07,1927,4.88,,50.4,49.6,-0.8,Labour,False,False
+Bridgwater and Somerset West,South West,25020,9589,10437,6765,0,2636,0,0,0,0,0,0,0,0,0,54447,Conservative,UKIP,25020,10437,45.95,14583,26.78,,37.9,62.1,24.2,Conservative,False,False
+Brigg and Goole,Yorkshire and The Humber,22946,11770,6694,764,0,915,0,0,0,0,0,0,153,0,28,43270,Conservative,Labour,22946,11770,53.03,11176,25.83,,33.8,66.2,32.4,Conservative,False,False
+Brighton Kemptown,South East,18428,17738,4446,1365,0,3187,0,0,0,0,0,0,69,0,73,45306,Conservative,Labour,18428,17738,40.67,690,1.52,,57.6,43.4,-14.2,Labour,True,True
+Brighton Pavilion,South East,12448,14904,2724,1525,0,22871,0,0,0,0,0,0,116,0,88,54676,Green,Labour,22871,14904,41.83,7967,14.57,,73.4,26.6,-46.8,Green,False,False
+Bristol East,South West,14168,18148,7152,2689,0,3827,0,0,0,0,0,0,0,0,229,46213,Labour,Conservative,18148,14168,39.27,3980,8.61,,53.2,46.8,-6.4,Labour,False,False
+Bristol North West,South West,22767,17823,4889,3214,0,2952,0,0,0,0,0,0,0,0,160,51805,Conservative,Labour,22767,17823,43.95,4944,9.54,,58.4,41.6,-16.8,Labour,True,False
+Bristol South,South West,12377,19505,8381,4416,0,5861,0,0,0,0,0,0,0,0,302,50842,Labour,Conservative,19505,12377,38.36,7128,14.02,,52.9,47.1,-5.8,Labour,False,False
+Bristol West,South West,9752,22900,1940,12103,0,17227,0,0,0,0,0,0,0,0,296,64218,Labour,Green,22900,17227,35.66,5673,8.83,,79.3,20.7,-58.6,Labour,False,False
+Broadland,East,26808,9970,8881,5178,0,2252,0,0,0,0,0,0,0,0,0,53089,Conservative,Labour,26808,9970,50.5,16838,31.72,,46.0,54.0,8.0,Conservative,False,False
+Bromley and Chislehurst,London,23343,9779,6285,2836,0,1823,0,0,0,0,0,0,0,0,0,44066,Conservative,Labour,23343,9779,52.97,13564,30.78,,50.2,49.8,-0.4,Conservative,False,False
+Bromsgrove,West Midlands,28133,11604,8163,2616,0,1729,0,0,0,0,0,0,0,0,0,52245,Conservative,Labour,28133,11604,53.85,16529,31.64,,44.6,55.4,10.8,Conservative,False,False
+Broxbourne,East,25797,8470,9074,1467,0,1216,0,0,0,0,0,0,0,0,0,46024,Conservative,UKIP,25797,9074,56.05,16723,36.34,,34.2,65.8,31.6,Conservative,False,False
+Broxtowe,East Midlands,24163,19876,5674,2120,0,1544,0,0,0,0,0,0,0,0,63,53440,Conservative,Labour,24163,19876,45.22,4287,8.02,,47.6,52.4,4.8,Conservative,False,False
+Buckingham,South East,0,0,11675,0,0,7400,0,0,0,0,0,0,0,34617,0,53692,Speaker,UKIP,34617,11675,64.47,22942,42.73,,51.4,48.6,-2.8,Speaker,False,False
+Burnley,North West,5374,14951,6864,11707,0,850,0,0,0,0,0,0,0,0,0,39746,Labour,Liberal Democrat,14951,11707,37.62,3244,8.16,,33.4,66.6,33.2,Labour,False,False
+Burton,West Midlands,24736,13484,8658,1232,0,1224,0,0,0,0,0,0,0,0,0,49334,Conservative,Labour,24736,13484,50.14,11252,22.81,,35.4,64.6,29.2,Conservative,False,False
+Bury North,North West,18970,18592,5595,932,0,1141,0,0,0,0,0,0,0,0,0,45230,Conservative,Labour,18970,18592,41.94,378,0.84,,46.4,53.6,7.2,Labour,True,False
+Bury South,North West,16350,21272,6299,1690,0,1434,0,0,0,0,0,0,0,0,170,47215,Labour,Conservative,21272,16350,45.05,4922,10.42,,45.5,54.5,9.0,Labour,False,False
+Bury St Edmunds,East,31815,10514,8739,3581,0,4692,0,0,0,0,0,0,0,0,0,59341,Conservative,Labour,31815,10514,53.61,21301,35.9,,46.3,53.7,7.4,Conservative,False,False
+Caerphilly,Wales,6683,17864,7791,935,0,937,0,5895,0,0,0,0,0,0,178,40283,Labour,UKIP,17864,7791,44.35,10073,25.01,,44.9,55.1,10.2,Labour,False,False
+"Caithness, Sutherland and Easter Ross",Scotland,2326,3061,981,11987,15831,0,0,0,0,0,0,0,0,0,0,34186,SNP,Liberal Democrat,15831,11987,46.31,3844,11.24,,50.6,49.4,-1.2,Liberal Democrat,True,False
+Calder Valley,Yorkshire and The Humber,23354,18927,5950,2666,0,2090,0,0,0,0,0,0,0,0,554,53541,Conservative,Labour,23354,18927,43.62,4427,8.27,,46.8,53.2,6.4,Conservative,False,False
+Camberwell and Peckham,London,6790,32614,2413,2580,0,5187,0,0,0,0,0,0,0,0,1977,51561,Labour,Conservative,32614,6790,63.25,25824,50.08,,69.9,30.1,-39.8,Labour,False,False
+Camborne and Redruth,South West,18452,11448,6776,5687,0,2608,0,0,0,0,0,0,0,0,897,45868,Conservative,Labour,18452,11448,40.23,7004,15.27,,37.3,62.7,25.4,Conservative,False,False
+Cambridge,East,8117,18646,2668,18047,0,4109,0,0,0,0,0,0,0,0,187,51774,Labour,Liberal Democrat,18646,18047,36.01,599,1.16,,73.8,26.2,-47.6,Labour,False,False
+Cannock Chase,West Midlands,20811,15888,8224,1270,0,906,0,0,0,0,0,0,0,0,0,47099,Conservative,Labour,20811,15888,44.19,4923,10.45,,31.1,68.9,37.8,Conservative,False,False
+Canterbury,South East,22918,13120,7289,6227,0,3746,0,0,0,0,0,0,0,0,165,53465,Conservative,Labour,22918,13120,42.87,9798,18.33,,54.7,45.3,-9.4,Labour,True,False
+Cardiff Central,Wales,5674,15462,2499,10481,0,2461,0,1925,0,0,0,0,34,0,110,38646,Labour,Liberal Democrat,15462,10481,40.01,4981,12.89,,69.7,30.3,-39.4,Labour,False,False
+Cardiff North,Wales,21709,19572,3953,1953,0,1254,0,2301,0,0,0,0,0,0,409,51151,Conservative,Labour,21709,19572,42.44,2137,4.18,,60.9,39.0,-21.9,Labour,True,False
+Cardiff South and Penarth,Wales,12513,19966,6423,2318,0,1746,0,3443,0,0,0,0,0,0,258,46667,Labour,Conservative,19966,12513,42.78,7453,15.97,,55.1,44.9,-10.2,Labour,False,False
+Cardiff West,Wales,11014,17803,4923,2069,0,1704,0,6096,0,0,0,0,0,0,183,43792,Labour,Conservative,17803,11014,40.65,6789,15.5,,55.2,44.8,-10.4,Labour,False,False
+Carlisle,North West,18873,16099,5277,1087,0,1125,0,0,0,0,0,0,126,0,0,42587,Conservative,Labour,18873,16099,44.32,2774,6.51,,39.6,60.4,20.8,Conservative,False,False
+Carmarthen East and Dinefwr,Wales,8336,9541,4363,928,0,1091,0,15140,0,0,0,0,0,0,0,39399,Plaid Cymru,Labour,15140,9541,38.43,5599,14.21,,46.3,53.7,7.4,Plaid Cymru,False,False
+Carmarthen West and Pembrokeshire South,Wales,17626,11572,4698,963,0,1290,0,4201,0,0,0,0,0,0,0,40350,Conservative,Labour,17626,11572,43.68,6054,15.0,,44.7,55.3,10.6,Conservative,False,False
+Carshalton and Wallington,London,15093,7150,7049,16603,0,1492,0,0,0,0,0,0,0,0,226,47613,Liberal Democrat,Conservative,16603,15093,34.87,1510,3.17,,43.7,56.3,12.6,Liberal Democrat,False,False
+Castle Point,East,23112,6283,14178,801,0,1076,0,0,0,0,0,0,0,0,0,45450,Conservative,UKIP,23112,14178,50.85,8934,19.66,,27.3,72.7,45.4,Conservative,False,False
+Central Ayrshire,Scotland,8803,13410,0,917,26999,645,0,0,0,0,0,0,0,0,0,50774,SNP,Labour,26999,13410,53.17,13589,26.76,72.6,57.8,42.2,-15.6,SNP,False,False
+Central Devon,South West,28436,6985,7171,6643,0,4866,0,0,0,0,0,0,0,0,347,54448,Conservative,UKIP,28436,7171,52.2,21265,39.06,74.9,48.9,51.1,2.2,Conservative,False,False
+Central Suffolk and North Ipswich,East,30317,10173,7459,3314,0,2664,0,0,0,0,0,0,0,0,162,54089,Conservative,Labour,30317,10173,56.1,20144,37.24,68.7,45.6,54.4,8.8,Conservative,False,False
+Ceredigion,Wales,4123,3615,3829,13414,0,2088,0,10347,0,0,0,0,0,0,0,37416,Liberal Democrat,Plaid Cymru,13414,10347,35.85,3067,8.2,,54.6,45.4,-9.2,Plaid Cymru,True,False
+Charnwood,East Midlands,28384,11453,8330,3605,0,0,0,0,0,0,0,0,0,0,489,52261,Conservative,Labour,28384,11453,54.31,16931,32.4,,41.8,58.2,16.4,Conservative,False,False
+Chatham and Aylesford,South East,21614,10159,8581,1360,0,1101,0,0,0,0,0,0,0,0,258,43073,Conservative,Labour,21614,10159,50.18,11455,26.59,,35.3,64.7,29.4,Conservative,False,False
+Cheadle,North West,22889,8673,4423,16436,0,0,0,0,0,0,0,0,390,0,284,53095,Conservative,Liberal Democrat,22889,16436,43.11,6453,12.15,,57.3,42.7,-14.6,Conservative,False,False
+Chelmsford,East,27732,9482,7652,6394,0,1892,0,0,0,0,0,0,0,0,665,53817,Conservative,Labour,27732,9482,51.53,18250,33.91,,49.5,50.5,1.0,Conservative,False,False
+Chelsea and Fulham,London,25322,9300,2039,2091,0,1474,0,0,0,0,0,0,0,0,0,40226,Conservative,Labour,25322,9300,62.95,16022,39.83,,70.8,29.2,-41.6,Conservative,False,False
+Cheltenham,South West,24790,3902,3808,18274,0,2689,0,0,0,0,0,0,272,0,0,53735,Conservative,Liberal Democrat,24790,18274,46.13,6516,12.13,,57.3,42.7,-14.6,Conservative,False,False
+Chesham and Amersham,South East,31138,6712,7218,4761,0,2902,0,0,0,0,0,0,0,0,0,52731,Conservative,UKIP,31138,7218,59.05,23920,45.36,,55.0,45.0,-10.0,Conservative,False,False
+"Chester, City of",North West,22025,22118,4148,2870,0,0,0,0,0,0,0,0,0,0,0,51161,Labour,Conservative,22118,22025,43.23,93,0.18,,57.3,42.7,-14.6,Labour,False,False
+Chesterfield,East Midlands,8231,21829,7523,6301,0,1352,0,0,0,0,0,0,0,0,331,45567,Labour,Conservative,21829,8231,47.91,13598,29.84,,40.7,59.3,18.6,Labour,False,False
+Chichester,South East,32953,6933,8540,4865,0,3742,0,0,0,0,0,0,0,0,106,57139,Conservative,UKIP,32953,8540,57.67,24413,42.73,,49.4,50.6,1.2,Conservative,False,False
+Chingford and Woodford Green,London,20999,12613,5644,2400,0,1854,0,0,0,0,0,0,0,0,294,43804,Conservative,Labour,20999,12613,47.94,8386,19.14,,50.8,49.2,-1.6,Conservative,False,False
+Chippenham,South West,26354,4561,5884,16278,0,2330,0,0,0,0,0,0,0,0,0,55407,Conservative,Liberal Democrat,26354,16278,47.56,10076,18.19,,47.7,52.3,4.6,Conservative,False,False
+Chipping Barnet,London,25759,18103,4151,2381,0,2501,0,0,0,0,0,0,118,0,0,53013,Conservative,Labour,25759,18103,48.59,7656,14.44,,59.1,40.9,-18.2,Conservative,False,False
+Chorley,North West,18792,23322,6995,1354,0,1111,0,0,0,0,0,0,138,0,0,51712,Labour,Conservative,23322,18792,45.1,4530,8.76,,43.5,56.5,13.0,Labour,False,False
+Christchurch,South West,28887,4745,10663,3263,0,2149,0,0,0,0,0,0,0,0,0,49707,Conservative,UKIP,28887,10663,58.11,18224,36.66,,40.2,59.8,19.6,Conservative,False,False
+Cities of London and Westminster,London,19570,9899,1894,2521,0,1953,0,0,0,0,0,0,0,0,348,36185,Conservative,Labour,19570,9899,54.08,9671,26.73,,71.4,28.6,-42.8,Conservative,False,False
+City of Durham,North East,10157,21596,5232,5153,0,2687,0,0,0,0,0,0,0,0,844,45669,Labour,Conservative,21596,10157,47.3,11439,25.05,66.4,55.7,44.3,-11.4,Labour,False,False
+Clacton,East,16205,6364,19642,812,0,1184,0,0,0,0,0,0,0,0,0,44207,UKIP,Conservative,19642,16205,44.43,3437,7.77,,30.0,70.0,40.0,Conservative,True,False
+Cleethorpes,North East,21026,13133,8356,1346,0,1013,0,0,0,0,0,0,0,0,215,45089,Conservative,Labour,21026,13133,46.6,7893,17.51,,31.6,68.4,36.8,Conservative,False,False
+Clwyd South,Wales,10649,13051,5480,1349,0,915,0,3620,0,0,0,0,0,0,0,35064,Labour,Conservative,13051,10649,37.2,2402,6.85,,39.8,60.2,20.4,Labour,False,False
+Clwyd West,Wales,16463,9733,4988,1387,0,0,0,4651,0,0,0,0,0,0,806,38028,Conservative,Labour,16463,9733,43.29,6730,17.7,,47.5,52.5,5.0,Conservative,False,False
+"Coatbridge, Chryston and Bellshill",Scotland,3209,17195,1049,549,28696,0,0,0,0,0,0,0,0,0,0,50698,SNP,Labour,28696,17195,68.7,11501,22.69,,61.3,38.7,-22.6,Labour,True,False
+Colchester,East,18919,7852,5870,13344,0,2499,0,0,0,0,0,0,0,0,109,48593,Conservative,Liberal Democrat,18919,13344,38.9,5575,11.47,,49.0,51.0,2.0,Conservative,False,False
+Colne Valley,Yorkshire and The Humber,25246,19868,5734,3407,0,1919,0,0,0,0,0,0,0,0,626,56800,Conservative,Labour,25246,19868,44.4,5378,9.47,,50.2,49.8,-0.4,Labour,True,False
+Congleton,North West,27164,10391,6922,4623,0,1876,0,0,0,0,0,0,0,0,0,50976,Conservative,Labour,27164,10391,53.3,16773,32.9,,47.4,52.6,5.2,Conservative,False,False
+Copeland,North West,14186,16750,6148,1368,0,1179,0,0,0,0,0,0,0,0,0,39631,Labour,Conservative,16750,14186,42.3,2564,6.47,,40.2,59.8,19.6,Conservative,True,False
+Corby,East Midlands,24023,21611,7708,1458,0,1374,0,0,0,0,0,0,0,0,0,56174,Conservative,Labour,24023,21611,42.8,2412,4.29,,39.9,60.1,20.2,Conservative,False,False
+Coventry North East,West Midlands,9751,22025,6278,2007,0,1245,0,0,0,0,0,0,0,0,925,42231,Labour,Conservative,22025,9751,52.2,12274,29.06,,40.8,59.2,18.4,Labour,False,False
+Coventry North West,West Midlands,14048,18557,7101,1810,0,1961,0,0,0,0,0,0,0,0,1769,45246,Labour,Conservative,18557,14048,41.0,4509,9.97,60.7,41.4,58.6,17.2,Labour,False,False
+Coventry South,West Midlands,15284,18472,5709,1779,0,1719,0,0,0,0,0,0,0,0,736,43699,Labour,Conservative,18472,15284,42.3,3188,7.3,61.2,51.1,48.9,-2.2,Labour,False,False
+Crawley,South East,22829,16303,6979,1339,0,1100,0,0,0,0,0,0,0,0,0,48550,Conservative,Labour,22829,16303,47.0,6526,13.44,65.7,41.6,58.4,16.8,Conservative,False,False
+Crewe and Nantwich,North West,22445,18825,7252,1374,0,0,0,0,0,0,0,0,0,0,0,49896,Conservative,Labour,22445,18825,45.0,3620,7.26,,41.0,59.0,18.0,Labour,True,False
+Croydon Central,London,22753,22588,4810,1152,0,1454,0,0,0,0,0,0,0,0,184,52941,Conservative,Labour,22753,22588,43.0,165,0.31,,49.7,50.3,0.6,Labour,True,False
+Croydon North,London,12149,33513,2899,1919,0,2515,0,0,0,0,0,0,0,0,527,53522,Labour,Conservative,33513,12149,62.6,21364,39.92,,59.1,40.9,-18.2,Labour,False,False
+Croydon South,London,31448,14308,6068,3448,0,2154,0,0,0,0,0,0,0,0,286,57712,Conservative,Labour,31448,14308,54.5,17140,29.7,,54.2,45.8,-8.4,Conservative,False,False
+"Cumbernauld, Kilsyth and Kirkintilloch East",Scotland,3891,14820,0,1099,29572,0,0,0,0,0,0,0,0,0,0,49382,SNP,Labour,29572,14820,59.9,14752,29.87,73.6,62.1,37.9,-24.2,SNP,False,False
+Cynon Valley,Wales,3676,14532,4976,830,0,799,0,5126,0,0,0,0,0,0,533,30472,Labour,Plaid Cymru,14532,5126,47.7,9406,30.87,,43.1,56.9,13.8,Labour,False,False
+Dagenham and Rainham,London,10492,17830,12850,717,0,806,0,0,0,0,0,0,0,0,355,43050,Labour,UKIP,17830,12850,41.4,4980,11.57,62.3,30.1,69.9,39.8,Labour,False,False
+Darlington,North East,14479,17637,5392,1966,0,1444,0,0,0,0,0,0,0,0,223,41141,Labour,Conservative,17637,14479,42.9,3158,7.68,62.5,42.0,58.0,16.0,Labour,False,False
+Dartford,South East,25670,13325,10434,1454,0,1324,0,0,0,0,0,0,0,0,211,52418,Conservative,Labour,25670,13325,49.0,12345,23.55,68.4,36.0,64.0,28.0,Conservative,False,False
+Daventry,East Midlands,30550,9491,8296,2352,0,1829,0,0,0,0,0,0,0,0,0,52518,Conservative,Labour,30550,9491,58.2,21059,40.1,72.2,41.3,58.7,17.4,Conservative,False,False
+Delyn,Wales,12257,15187,6150,1380,0,680,0,1803,0,0,0,0,0,0,0,37457,Labour,Conservative,15187,12257,40.5,2930,7.82,69.8,45.3,54.7,9.4,Labour,False,False
+Denton and Reddish,North West,9150,19661,7225,957,0,1466,0,0,0,0,0,0,0,0,222,38681,Labour,Conservative,19661,9150,50.8,10511,27.17,58.1,39.0,61.0,22.0,Labour,False,False
+Derby North,East Midlands,16402,16361,6532,3832,0,1618,0,0,0,0,0,0,0,0,0,44745,Conservative,Labour,16402,16361,36.7,41,0.09,69.1,46.3,53.7,7.4,Labour,True,False
+Derby South,East Midlands,11179,20007,6341,1717,0,1208,0,0,0,0,0,0,0,0,368,40820,Labour,Conservative,20007,11179,49.0,8828,21.63,58.1,38.4,61.6,23.2,Labour,False,False
+Derbyshire Dales,East Midlands,24805,10761,5508,3965,0,2173,0,0,0,0,0,0,0,0,149,47361,Conservative,Labour,24805,10761,52.4,14044,29.65,74.6,48.8,51.2,2.4,Conservative,False,False
+Devizes,South West,28295,6360,7544,3954,0,2853,0,0,0,0,0,0,0,0,0,49006,Conservative,UKIP,28295,7544,57.7,20751,42.34,70.8,48.6,51.4,2.8,Conservative,False,False
+Dewsbury,Yorkshire and The Humber,20955,22406,6649,1924,0,1366,0,0,0,0,0,0,0,0,330,53630,Labour,Conservative,22406,20955,41.8,1451,2.71,67.2,42.8,57.2,14.4,Labour,False,False
+Don Valley,Yorkshire and The Humber,10736,19621,9963,1487,0,0,0,0,0,0,0,0,0,0,679,42486,Labour,Conservative,19621,10736,46.2,8885,20.91,59.6,31.5,68.5,37.0,Labour,False,False
+Doncaster Central,Yorkshire and The Humber,8386,19840,9747,1717,0,0,0,0,0,0,0,0,0,0,730,40420,Labour,UKIP,19840,9747,49.1,10093,24.97,56.8,33.7,66.3,32.6,Labour,False,False
+Doncaster North,Yorkshire and The Humber,7235,20708,8928,1005,0,757,0,0,0,0,0,0,448,0,420,39501,Labour,UKIP,20708,8928,52.4,11780,29.82,55.7,28.0,72.0,44.0,Labour,False,False
+Dover,South East,21737,15443,10177,1572,0,1295,0,0,0,0,0,0,0,0,0,50224,Conservative,Labour,21737,15443,43.3,6294,12.53,68.9,36.8,63.1,26.3,Conservative,False,False
+Dudley North,West Midlands,11704,15885,9113,478,0,517,0,0,0,0,0,0,0,0,295,37992,Labour,Conservative,15885,11704,41.8,4181,11.0,62.6,28.6,71.4,42.8,Labour,False,False
+Dudley South,West Midlands,16723,12453,7236,828,0,970,0,0,0,0,0,0,0,0,0,38210,Conservative,Labour,16723,12453,43.8,4270,11.18,63.3,29.6,70.4,40.8,Conservative,False,False
+Dulwich and West Norwood,London,11650,27772,1606,5055,0,4844,0,0,0,0,0,0,0,0,435,51362,Labour,Conservative,27772,11650,54.1,16122,31.39,68.3,78.0,22.0,-56.0,Labour,False,False
+Dumfries and Galloway,Scotland,16926,13982,1301,953,23440,0,0,0,0,0,0,0,0,0,0,56602,SNP,Conservative,23440,16926,41.4,6514,11.51,75.2,54.7,45.3,-9.4,Conservative,True,False
+"Dumfriesshire, Clydesdale and Tweeddale",Scotland,20759,7711,1472,1392,19961,839,0,0,0,0,0,0,0,0,0,52134,Conservative,SNP,20759,19961,39.8,798,1.53,76.1,56.1,43.9,-12.2,Conservative,False,False
+Dundee East,Scotland,7206,9603,0,1387,28765,895,0,0,0,0,0,0,0,0,329,48185,SNP,Labour,28765,9603,59.7,19162,39.77,71.0,61.8,38.2,-23.6,SNP,False,False
+Dundee West,Scotland,3852,10592,0,1057,27684,1225,0,0,0,0,0,0,0,0,304,44714,SNP,Labour,27684,10592,61.9,17092,38.23,67.8,58.9,41.1,-17.8,SNP,False,False
+Dunfermline and West Fife,Scotland,6623,17744,0,2232,28096,1195,0,0,0,0,0,0,0,0,0,55890,SNP,Labour,28096,17744,50.3,10352,18.52,71.6,60.0,40.0,-20.0,SNP,False,False
+Dwyfor Meirionnydd,Wales,6550,3904,3126,1153,0,981,0,11811,0,0,0,0,1388,0,0,28913,Plaid Cymru,Conservative,11811,6550,40.9,5261,18.2,65.1,51.7,48.3,-3.4,Plaid Cymru,False,False
+Ealing Central and Acton,London,21728,22002,1926,3106,0,1841,0,0,0,0,0,0,0,0,291,50894,Labour,Conservative,22002,21728,43.2,274,0.54,71.4,70.9,29.1,-41.8,Labour,False,False
+Ealing North,London,14419,26745,3922,1575,0,1635,0,0,0,0,0,0,0,0,214,48510,Labour,Conservative,26745,14419,55.1,12326,25.41,65.7,53.7,46.3,-7.4,Labour,False,False
+Ealing Southall,London,9387,28147,1769,1550,0,2007,0,0,0,0,0,0,0,0,461,43321,Labour,Conservative,28147,9387,65.0,18760,43.3,66.1,58.2,41.8,-16.4,Labour,False,False
+Easington,North East,4478,21132,6491,834,0,733,0,0,0,0,0,0,810,0,146,34624,Labour,UKIP,21132,6491,61.0,14641,42.29,56.1,33.5,66.5,33.0,Labour,False,False
+East Antrim,Northern Ireland,549,0,3660,0,0,0,12103,0,2314,6308,1639,5021,0,0,1903,33497,Democratic Unionist,Ulster Unionist,12103,6308,36.1,5795,17.3,53.3,44.8,55.2,10.4,Democratic Unionist,False,False
+East Devon,South West,25401,5591,6870,3715,0,0,0,0,0,0,0,0,13140,0,0,54717,Conservative,Independent,25401,13140,46.4,12261,22.41,73.7,49.6,50.4,0.8,Conservative,False,False
+East Dunbartonshire,Scotland,4727,6754,567,19926,22093,804,0,0,0,0,0,0,0,0,0,54871,SNP,Liberal Democrat,22093,19926,40.3,2167,3.95,81.91,73.3,26.7,-46.6,Liberal Democrat,True,False
+East Ham,London,6311,40563,2622,856,0,1299,0,0,0,0,0,0,0,0,639,52290,Labour,Conservative,40563,6311,77.6,34252,65.5,59.8,53.1,46.9,-6.2,Labour,False,False
+East Hampshire,South East,31334,5220,6187,5732,0,3176,0,0,0,0,0,0,0,0,0,51649,Conservative,UKIP,31334,6187,60.7,25147,48.69,71.1,51.3,48.7,-2.6,Conservative,False,False
+"East Kilbride, Strathaven and Lesmahagow",Scotland,7129,17151,1221,1042,33678,0,0,0,0,0,0,0,318,0,0,60539,SNP,Labour,33678,17151,55.6,16527,27.3,72.8,62.1,37.9,-24.2,SNP,False,False
+East Londonderry,Northern Ireland,422,0,0,0,0,0,14663,0,6859,5333,4268,2642,0,0,527,34714,Democratic Unionist,Sinn Fein,14663,6859,42.2,7804,22.48,51.9,52.0,48.0,-4.0,Democratic Unionist,False,False
+East Lothian,Scotland,11511,18301,1178,1517,25104,1245,0,0,0,0,0,0,158,0,0,59014,SNP,Labour,25104,18301,42.5,6803,11.53,74.2,64.6,35.4,-29.2,Labour,True,False
+East Renfrewshire,Scotland,12465,19295,888,1069,23013,0,0,0,0,0,0,0,0,0,0,56730,SNP,Labour,23013,19295,40.6,3718,6.55,81.1,74.3,25.7,-48.6,Conservative,True,False
+East Surrey,South East,32211,6627,9553,5189,0,2159,0,0,0,0,0,0,0,0,364,56103,Conservative,UKIP,32211,9553,45.6,22658,40.39,70.4,45.9,54.1,8.2,Conservative,False,False
+East Worthing and Shoreham,South East,24686,9737,8267,3360,0,2605,0,0,0,0,0,0,0,0,1243,49898,Conservative,Labour,24686,9737,49.5,14949,29.96,67.2,46.4,53.6,7.2,Conservative,False,False
+East Yorkshire,Yorkshire and The Humber,25276,10343,8955,2966,0,1731,0,0,0,0,0,0,0,0,720,49991,Conservative,Labour,25276,10343,50.6,14933,29.87,61.7,36.7,63.3,26.6,Conservative,False,False
+Eastbourne,South East,20934,4143,6139,20201,0,1351,0,0,0,0,0,0,139,0,0,52907,Conservative,Liberal Democrat,20934,20201,39.6,733,1.39,67.6,42.4,57.6,15.2,Liberal Democrat,True,False
+Eastleigh,South East,23464,7181,8783,14317,0,1513,0,0,0,0,0,0,0,0,247,55505,Conservative,Liberal Democrat,23464,14317,42.3,9147,16.48,69.9,46.0,54.0,8.0,Conservative,False,False
+Eddisbury,North West,24167,11193,5778,4289,0,1624,0,0,0,0,0,0,0,0,301,47352,Conservative,Labour,24167,11193,51.0,12974,27.4,69.0,47.8,52.2,4.4,Conservative,False,False
+Edinburgh East,Scotland,4670,14082,898,1325,23188,2809,0,0,0,0,0,0,0,0,117,47089,SNP,Labour,23188,14082,49.2,9106,19.34,70.1,72.4,27.6,-44.8,SNP,False,False
+Edinburgh North and Leith,Scotland,9378,18145,847,2634,23742,3140,0,0,0,0,0,0,0,0,122,58008,SNP,Labour,23742,18145,40.9,5597,9.65,71.7,78.2,21.8,-56.4,SNP,False,False
+Edinburgh South,Scotland,8626,19293,601,1823,16656,2090,0,0,0,0,0,0,0,0,197,49286,Labour,SNP,19293,16656,39.1,2637,5.35,74.9,77.8,22.2,-55.6,Labour,False,False
+Edinburgh South West,Scotland,10444,14033,1072,1920,22168,1965,0,0,0,0,0,0,0,0,0,51602,SNP,Labour,22168,14033,43.0,8135,15.76,71.5,72.1,27.9,-44.2,SNP,False,False
+Edinburgh West,Scotland,6732,6425,1015,18168,21378,1140,0,0,0,0,0,0,0,0,0,54858,SNP,Liberal Democrat,21378,18168,39.0,3210,5.85,76.5,71.2,28.8,-42.4,Liberal Democrat,True,False
+Edmonton,London,9969,25388,3366,897,0,1358,0,0,0,0,0,0,0,0,360,41338,Labour,Conservative,25388,9969,61.4,15419,37.3,62.6,54.5,45.5,-9.0,Labour,False,False
+Ellesmere Port and Neston,North West,16041,22316,5594,1563,0,990,0,0,0,0,0,0,0,0,223,46727,Labour,Conservative,22316,16041,47.8,6275,13.43,68.6,42.3,57.7,15.4,Labour,False,False
+Elmet and Rothwell,Yorkshire and The Humber,27978,19488,6430,2640,0,1261,0,0,0,0,0,0,0,0,0,57797,Conservative,Labour,27978,19488,48.4,8490,14.69,73.0,43.7,56.3,12.6,Conservative,False,False
+Eltham,London,15700,18393,6481,1308,0,1275,0,0,0,0,0,0,0,0,0,43157,Labour,Conservative,18393,15700,42.6,2693,6.24,67.4,48.2,51.8,3.6,Labour,False,False
+Enfield North,London,19086,20172,4133,1059,0,1303,0,0,0,0,0,0,0,0,384,46137,Labour,Conservative,20172,19086,43.7,1086,2.35,67.7,50.8,49.2,-1.6,Labour,False,False
+Enfield Southgate,London,22624,17871,2109,1518,0,1690,0,0,0,0,0,0,0,0,0,45812,Conservative,Labour,22624,17871,49.4,4753,10.38,70.5,62.1,37.9,-24.2,Labour,True,False
+Epping Forest,East,27027,7962,9049,3448,0,1782,0,0,0,0,0,0,0,0,80,49348,Conservative,UKIP,27027,9049,54.8,17978,36.43,67.1,39.0,61.0,22.0,Conservative,False,False
+Epsom and Ewell,South East,33309,8866,7117,5002,0,2116,0,0,0,0,0,0,0,0,733,57143,Conservative,Labour,33309,8866,58.3,24443,42.78,72.7,52.1,47.9,-4.2,Conservative,False,False
+Erewash,East Midlands,20636,17052,7792,1658,0,1184,0,0,0,0,0,0,0,0,0,48322,Conservative,Labour,20636,17052,42.7,3584,7.42,67.2,36.7,63.3,26.6,Conservative,False,False
+Erith and Thamesmead,London,11684,21209,7368,972,0,941,0,0,0,0,0,0,0,0,443,42617,Labour,Conservative,21209,11684,49.8,9525,22.35,61.1,45.7,54.3,8.6,Labour,False,False
+Esher and Walton,South East,35845,7229,5551,5372,0,2355,0,0,0,0,0,0,0,0,624,56976,Conservative,Labour,35845,7229,62.9,28616,50.22,71.3,58.4,41.6,-16.8,Conservative,False,False
+Exeter,South West,17879,25062,5075,2321,0,3491,0,0,0,0,0,0,0,0,190,54018,Labour,Conservative,25062,17879,46.4,7183,13.3,70.2,55.3,44.7,-10.6,Labour,False,False
+Falkirk,Scotland,7325,15130,1829,1225,34831,0,0,0,0,0,0,0,0,0,0,60340,SNP,Labour,34831,15130,57.7,19701,32.65,72.4,58.1,41.9,-16.2,SNP,False,False
+Fareham,South East,30689,7800,8427,4814,0,2129,0,0,0,0,0,0,0,0,841,54700,Conservative,UKIP,30689,8427,56.1,22262,40.7,70.8,44.6,55.4,10.8,Conservative,False,False
+Faversham and Mid Kent,South East,24895,7403,8243,3039,0,1768,0,0,0,0,0,0,0,0,455,45803,Conservative,UKIP,24895,8243,54.4,16652,36.36,65.9,41.8,58.2,16.4,Conservative,False,False
+Feltham and Heston,London,14382,25845,6209,1579,0,1390,0,0,0,0,0,0,0,0,0,49405,Labour,Conservative,25845,14382,52.3,11463,23.2,60.0,44.1,55.9,11.8,Labour,False,False
+Fermanagh and South Tyrone,Northern Ireland,0,0,0,0,0,788,0,0,23078,23608,2732,658,0,0,0,50864,Ulster Unionist,Sinn Fein,23608,23078,46.4,530,1.04,72.6,58.6,41.4,-17.2,Sinn Fein,True,False
+Filton and Bradley Stoke,South West,22920,13082,7261,3581,0,2257,0,0,0,0,0,0,0,0,0,49101,Conservative,Labour,22920,13082,46.7,9838,20.04,69.4,52.1,47.9,-4.2,Conservative,False,False
+Finchley and Golders Green,London,25835,20173,1732,1662,0,1357,0,0,0,0,0,0,0,0,0,50759,Conservative,Labour,25835,20173,50.9,5662,11.15,70.5,69.1,30.9,-38.2,Conservative,False,False
+Folkestone and Hythe,South East,26323,7939,12526,4882,0,2956,0,0,0,0,0,0,0,0,384,55010,Conservative,UKIP,26323,12526,47.9,13797,25.08,65.8,38.2,61.8,23.6,Conservative,False,False
+Forest of Dean,South West,23191,12204,8792,2630,0,2703,0,0,0,0,0,0,0,0,0,49520,Conservative,Labour,23191,12204,46.8,10987,22.19,70.9,42.0,58.0,16.0,Conservative,False,False
+Foyle,Northern Ireland,132,0,832,0,0,0,4573,0,11679,1226,17725,835,0,0,0,37002,SDLP,Sinn Fein,17725,11679,47.9,6046,16.34,52.8,78.3,21.7,-56.6,Sinn Fein,True,False
+Fylde,North West,21406,8182,5569,1623,0,1381,0,0,0,0,0,0,5166,0,230,43557,Conservative,Labour,21406,8182,49.1,13224,30.36,66.3,43.5,56.5,13.0,Conservative,False,False
+Gainsborough,East Midlands,25949,10500,7727,3290,0,1290,0,0,0,0,0,0,0,0,505,49261,Conservative,Labour,25949,10500,52.7,15449,31.36,67.3,38.0,62.0,24.0,Conservative,False,False
+Garston and Halewood,North West,6693,33839,4482,2279,0,1690,0,0,0,0,0,0,0,0,0,48983,Labour,Conservative,33839,6693,69.1,27146,55.42,66.1,52.2,47.8,-4.4,Labour,False,False
+Gateshead,North East,5502,21549,6765,2585,0,1548,0,0,0,0,0,0,0,0,0,37949,Labour,UKIP,21549,6765,56.8,14784,38.96,59.4,44.0,56.0,12.0,Labour,False,False
+Gedling,East Midlands,17321,20307,6930,1906,0,1534,0,0,0,0,0,0,0,0,0,47998,Labour,Conservative,20307,17321,42.3,2986,6.22,68.5,43.9,56.1,12.2,Labour,False,False
+Gillingham and Rainham,South East,22590,12060,9199,1707,0,1133,0,0,0,0,0,0,0,0,389,47078,Conservative,Labour,22590,12060,48.0,10530,22.37,64.8,36.5,63.5,27.0,Conservative,False,False
+Glasgow Central,Scotland,2359,12996,786,612,20658,1559,0,0,0,0,0,0,0,0,348,39318,SNP,Labour,20658,12996,52.5,7662,19.49,55.4,71.2,28.8,-42.4,SNP,False,False
+Glasgow East,Scotland,2544,13729,1105,318,24116,381,0,0,0,0,0,0,0,0,224,42417,SNP,Labour,24116,13729,56.9,10387,24.49,60.3,56.2,43.8,-12.4,SNP,False,False
+Glasgow North,Scotland,2901,10315,486,1012,19610,2284,0,0,0,0,0,0,0,0,314,36922,SNP,Labour,19610,10315,53.1,9295,25.17,61.4,78.4,21.6,-56.8,SNP,False,False
+Glasgow North East,Scotland,1769,12754,0,300,21976,615,0,0,0,0,0,0,0,0,443,37857,SNP,Labour,21976,12754,58.1,9222,24.36,56.8,59.3,40.7,-18.6,Labour,True,False
+Glasgow North West,Scotland,3692,13544,0,1194,23908,1167,0,0,0,0,0,0,0,0,349,43854,SNP,Labour,23908,13544,54.5,10364,23.63,64.1,68.5,31.5,-37.0,SNP,False,False
+Glasgow South,Scotland,4752,14504,0,1019,26773,1431,0,0,0,0,0,0,0,0,299,48778,SNP,Labour,26773,14504,54.9,12269,25.15,65.9,71.8,28.2,-43.6,SNP,False,False
+Glasgow South West,Scotland,2036,13438,970,406,23388,507,0,0,0,0,0,0,0,0,176,40921,SNP,Labour,23388,13438,57.2,9950,24.32,61.8,59.1,40.9,-18.2,SNP,False,False
+Glenrothes,Scotland,3685,14562,0,892,28459,0,0,0,0,0,0,0,0,0,0,47598,SNP,Labour,28459,14562,59.8,13897,29.2,68.2,53.6,46.4,-7.2,SNP,False,False
+Gloucester,South West,23837,16586,7497,2828,0,1485,0,0,0,0,0,0,0,0,342,52575,Conservative,Labour,23837,16586,45.3,7251,13.79,63.4,41.1,58.9,17.8,Conservative,False,False
+Gordon,Scotland,6807,3441,1166,19030,27717,0,0,0,0,0,0,0,0,0,0,58161,SNP,Liberal Democrat,27717,19030,47.7,8687,14.94,73.3,55.5,44.5,-11.0,Conservative,True,False
+Gosport,South East,26364,6926,9266,3298,0,1707,0,0,0,0,0,0,0,0,104,47665,Conservative,UKIP,26364,9266,55.3,17098,35.87,65.1,38.1,61.9,23.8,Conservative,False,False
+Gower,Wales,15862,15835,4773,1552,0,1161,0,3051,0,0,0,0,168,0,356,42758,Conservative,Labour,15862,15835,37.1,27,0.06,69.2,49.9,50.1,0.2,Labour,True,False
+Grantham and Stamford,East Midlands,28399,9070,9410,3263,0,1872,0,0,0,0,0,0,0,0,1741,53755,Conservative,UKIP,28399,9410,52.8,18989,35.33,66.2,39.0,61.0,22.0,Conservative,False,False
+Gravesham,South East,23484,15114,9306,1111,0,1124,0,0,0,0,0,0,0,0,0,50139,Conservative,Labour,23484,15114,46.8,8370,16.69,67.5,34.6,65.4,30.8,Conservative,False,False
+Great Grimsby,Yorkshire and The Humber,8874,13414,8417,1680,0,783,0,0,0,0,0,0,0,0,563,33731,Labour,Conservative,13414,8874,39.8,4540,13.46,57.7,28.6,71.4,42.8,Labour,False,False
+Great Yarmouth,East,19089,12935,10270,1030,0,978,0,0,0,0,0,0,0,0,167,44469,Conservative,Labour,19089,12935,42.9,6154,13.84,63.7,28.5,71.5,43.0,Conservative,False,False
+Greenwich and Woolwich,London,12438,24384,3888,2645,0,2991,0,0,0,0,0,0,0,0,370,46716,Labour,Conservative,24384,12438,52.2,11946,25.57,63.7,64.3,35.7,-28.6,Labour,False,False
+Guildford,South East,30802,6534,4774,8354,0,2558,0,0,0,0,0,0,0,0,964,53986,Conservative,Liberal Democrat,30802,8354,57.1,22448,41.58,70.5,58.9,41.1,-17.8,Conservative,False,False
+Hackney North and Stoke Newington,London,7349,31357,1085,2492,0,7281,0,0,0,0,0,0,0,0,323,49887,Labour,Conservative,31357,7349,62.9,24008,48.12,60.0,79.1,20.9,-58.2,Labour,False,False
+Hackney South and Shoreditch,London,6420,30663,1818,2186,0,5519,0,0,0,0,0,0,0,0,1004,47610,Labour,Conservative,30663,6420,64.4,24243,50.92,59.5,77.9,22.1,-55.8,Labour,False,False
+Halesowen and Rowley Regis,West Midlands,18933,15851,7280,905,0,849,0,0,0,0,0,0,0,0,0,43818,Conservative,Labour,18933,15851,43.2,3082,7.03,59.1,33.7,66.3,32.6,Conservative,False,False
+Halifax,Yorkshire and The Humber,17078,17506,5621,1629,0,1142,0,0,0,0,0,0,0,0,777,43753,Labour,Conservative,17506,17078,40.0,428,0.98,62.1,41.2,58.8,17.6,Labour,False,False
+Haltemprice and Howden,Yorkshire and The Humber,26414,10219,6781,3055,0,1809,0,0,0,0,0,0,0,0,479,48757,Conservative,Labour,26414,10219,54.2,16195,33.22,68.5,44.6,55.4,10.8,Conservative,False,False
+Halton,North West,8007,28292,6333,1097,0,1017,0,0,0,0,0,0,0,0,277,45023,Labour,Conservative,28292,8007,62.8,20285,45.05,61.8,42.2,57.8,15.6,Labour,False,False
+Hammersmith,London,17463,23981,2105,2224,0,2105,0,0,0,0,0,0,0,0,82,47960,Labour,Conservative,23981,17463,50.0,6518,13.59,66.4,69.0,31.0,-38.0,Labour,False,False
+Hampstead and Kilburn,London,22839,23977,1532,3039,0,2387,0,0,0,0,0,0,0,0,190,53964,Labour,Conservative,23977,22839,44.4,1138,2.11,67.3,76.6,23.4,-53.2,Labour,False,False
+Harborough,East Midlands,27675,8043,7539,7037,0,2177,0,0,0,0,0,0,0,0,0,52471,Conservative,Labour,27675,8043,52.7,19632,37.41,67.5,47.8,52.2,4.4,Conservative,False,False
+Harlow,East,21623,13273,7208,904,0,954,0,0,0,0,0,0,0,0,289,44251,Conservative,Labour,21623,13273,48.9,8350,18.87,65.1,32.0,68.0,36.0,Conservative,False,False
+Harrogate and Knaresborough,Yorkshire and The Humber,28153,5409,5681,11782,0,2351,0,0,0,0,0,0,0,0,0,53376,Conservative,Liberal Democrat,28153,11782,52.7,16371,30.67,69.0,52.8,47.2,-5.6,Conservative,False,False
+Harrow East,London,24668,19911,2333,1037,0,846,0,0,0,0,0,0,0,0,205,49000,Conservative,Labour,24668,19911,50.3,4757,9.71,69.1,52.5,47.5,-5.0,Conservative,False,False
+Harrow West,London,19677,21885,2047,1567,0,1310,0,0,0,0,0,0,0,0,117,46603,Labour,Conservative,21885,19677,47.0,2208,4.74,66.9,56.6,43.4,-13.2,Labour,False,False
+Hartlepool,North East,8256,14076,11052,761,0,1341,0,0,0,0,0,0,2954,0,1050,39490,Labour,UKIP,14076,11052,35.6,3024,7.66,56.8,30.4,69.6,39.2,Labour,False,False
+Harwich and North Essex,East,24722,9548,8464,3576,0,2122,0,0,0,0,0,0,0,0,0,48432,Conservative,Labour,24722,9548,51.0,15174,31.33,69.9,39.0,61.0,22.0,Conservative,False,False
+Hastings and Rye,South East,22686,17890,6786,1614,0,1951,0,0,0,0,0,0,0,0,0,50927,Conservative,Labour,22686,17890,44.5,4796,9.42,67.8,43.8,56.2,12.4,Conservative,False,False
+Havant,South East,23159,7149,9239,2929,0,2352,0,0,0,0,0,0,0,0,0,44828,Conservative,UKIP,23159,9239,51.7,13920,31.05,63.5,37.6,62.4,24.8,Conservative,False,False
+Hayes and Harlington,London,11143,26843,5388,888,0,794,0,0,0,0,0,0,0,0,0,45056,Labour,Conservative,26843,11143,59.6,15700,34.85,60.2,40.6,59.4,18.8,Labour,False,False
+Hazel Grove,North West,17882,7584,5283,11330,0,1140,0,0,0,0,0,0,0,0,0,43219,Conservative,Liberal Democrat,17882,11330,41.4,6552,15.16,68.5,47.8,52.2,4.4,Conservative,False,False
+Hemel Hempstead,East,26245,11825,7249,2402,0,1660,0,0,0,0,0,0,0,0,252,49633,Conservative,Labour,26245,11825,52.9,14420,29.05,66.5,44.9,55.1,10.2,Conservative,False,False
+Hemsworth,Yorkshire and The Humber,9694,21772,8565,1357,0,0,0,0,0,0,0,0,0,0,1018,42406,Labour,Conservative,21772,9694,51.3,12078,28.48,58.3,31.9,68.1,36.2,Labour,False,False
+Hendon,London,24328,20604,2595,1088,0,1015,0,0,0,0,0,0,0,0,0,49630,Conservative,Labour,24328,20604,49.0,3724,7.5,66.5,58.1,41.9,-16.2,Conservative,False,False
+Henley,South East,32292,6917,6007,6205,0,3815,0,0,0,0,0,0,0,0,0,55236,Conservative,Labour,32292,6917,58.5,25375,45.94,70.6,57.0,43.0,-14.0,Conservative,False,False
+Hereford and South Herefordshire,West Midlands,24844,6042,7954,5002,0,3415,0,0,0,0,0,0,0,0,0,47257,Conservative,UKIP,24844,7954,52.6,16890,35.74,66.8,39.9,60.1,20.2,Conservative,False,False
+Hertford and Stortford,East,31593,10084,7534,4385,0,2681,0,0,0,0,0,0,0,0,0,56277,Conservative,Labour,31593,10084,56.1,21509,38.22,71.3,50.8,49.2,-1.6,Conservative,False,False
+Hertsmere,East,29696,11235,6383,2777,0,0,0,0,0,0,0,0,0,0,0,50091,Conservative,Labour,29696,11235,59.3,18461,36.85,67.9,49.2,50.8,1.6,Conservative,False,False
+Hexham,North East,22834,10803,4302,2961,0,2445,0,0,0,0,0,0,0,0,0,43345,Conservative,Labour,22834,10803,52.7,12031,27.76,71.5,54.7,45.3,-9.4,Conservative,False,False
+Heywood and Middleton,North West,9268,20926,15627,1607,0,1110,0,0,0,0,0,0,0,0,0,48538,Labour,UKIP,20926,15627,43.1,5299,10.92,60.7,37.6,62.4,24.8,Labour,False,False
+High Peak,East Midlands,22836,17942,5811,2389,0,1811,0,0,0,0,0,0,0,0,0,50789,Conservative,Labour,22836,17942,45.0,4894,9.64,69.3,49.5,50.5,1.0,Labour,True,False
+Hitchin and Harpenden,East,31488,11433,4917,4484,0,3053,0,0,0,0,0,0,0,0,0,55375,Conservative,Labour,31488,11433,56.9,20055,36.22,74.0,60.3,39.7,-20.6,Conservative,False,False
+Holborn and St Pancras,London,12014,29062,2740,3555,0,7013,0,0,0,0,0,0,0,0,533,54917,Labour,Conservative,29062,12014,52.9,17048,31.04,63.2,73.3,26.7,-46.6,Labour,False,False
+Hornchurch and Upminster,London,27051,11103,13977,1501,0,1411,0,0,0,0,0,0,0,0,193,55236,Conservative,UKIP,27051,13977,49.0,13074,23.67,69.6,30.6,69.4,38.8,Conservative,False,False
+Hornsey and Wood Green,London,5347,29417,1271,18359,0,3146,0,0,0,0,0,0,0,0,245,57785,Labour,Liberal Democrat,29417,18359,50.9,11058,19.14,72.9,75.0,25.0,-50.0,Labour,False,False
+Horsham,South East,32627,6499,7969,6647,0,2198,0,0,0,0,0,0,0,0,985,56925,Conservative,UKIP,32627,7969,57.3,24658,43.32,72.8,51.4,48.6,-2.8,Conservative,False,False
+Houghton and Sunderland South,North East,7105,21218,8280,791,0,1095,0,0,0,0,0,0,0,0,0,38489,Labour,UKIP,21218,8280,55.1,12938,33.61,56.3,37.4,62.6,25.2,Labour,False,False
+Hove,South East,20846,22082,3265,1861,0,3569,0,0,0,0,0,0,0,0,591,52214,Labour,Conservative,22082,20846,42.3,1236,2.37,71.0,66.1,33.9,-32.2,Labour,False,False
+Huddersfield,Yorkshire and The Humber,10841,18186,5948,2365,0,2798,0,0,0,0,0,0,0,0,340,40478,Labour,Conservative,18186,10841,44.9,7345,18.15,62.0,49.0,51.0,2.0,Labour,False,False
+Huntingdon,East,29652,10248,9473,4375,0,2178,0,0,0,0,0,0,0,0,0,55926,Conservative,Labour,29652,10248,53.0,19404,34.7,67.9,46.8,53.2,6.4,Conservative,False,False
+Hyndburn,North West,13676,18076,9154,859,0,1122,0,0,0,0,0,0,0,0,0,42887,Labour,Conservative,18076,13676,42.1,4400,10.26,62.8,34.3,65.7,31.4,Labour,False,False
+Ilford North,London,20874,21463,4355,1130,0,1023,0,0,0,0,0,0,0,0,87,48932,Labour,Conservative,21463,20874,43.9,589,1.2,62.6,47.5,52.5,5.0,Labour,False,False
+Ilford South,London,13455,33232,2705,1014,0,1506,0,0,0,0,0,0,0,0,0,51912,Labour,Conservative,33232,13455,64.0,19777,38.1,54.6,56.2,43.8,-12.4,Labour,False,False
+Inverclyde,Scotland,4446,13522,715,1106,24585,0,0,0,0,0,0,0,0,0,233,44607,SNP,Labour,24585,13522,55.1,11063,24.8,75.2,63.8,36.2,-27.6,SNP,False,False
+"Inverness, Nairn, Badenoch and Strathspey",Scotland,3410,4311,1236,18029,28838,1367,0,0,0,0,0,0,0,0,422,57613,SNP,Liberal Democrat,28838,18029,50.1,10809,18.76,74.2,58.7,41.3,-17.4,SNP,False,False
+Ipswich,East,21794,18061,5703,1400,0,1736,0,0,0,0,0,0,0,0,0,48694,Conservative,Labour,21794,18061,44.8,3733,7.67,65.4,43.5,56.5,13.0,Labour,True,False
+Isle of Wight,South East,28591,8984,14888,5235,0,9404,0,0,0,0,0,0,0,0,3198,70300,Conservative,UKIP,28591,14888,40.7,13703,19.49,64.6,38.1,61.9,23.8,Conservative,False,False
+Islington North,London,8465,29659,1971,3984,0,5043,0,0,0,0,0,0,0,0,112,49234,Labour,Conservative,29659,8465,60.2,21194,43.05,67.1,78.4,21.6,-56.8,Labour,False,False
+Islington South and Finsbury,London,9839,22547,3375,4829,0,3371,0,0,0,0,0,0,0,0,309,44270,Labour,Conservative,22547,9839,50.9,12708,28.71,65.0,71.7,28.3,-43.4,Labour,False,False
+Islwyn,Wales,5366,17336,6932,950,0,659,0,3794,0,0,0,0,0,0,364,35401,Labour,UKIP,17336,6932,49.0,10404,29.39,63.6,45.3,58.8,13.5,Labour,False,True
+Jarrow,North East,6584,21464,7583,1238,0,1310,0,0,0,0,0,0,0,0,385,38564,Labour,UKIP,21464,7583,55.7,13881,35.99,60.4,38.4,61.6,23.2,Labour,False,False
+Keighley,Yorkshire and The Humber,21766,18713,5662,1321,0,1661,0,0,0,0,0,0,0,0,0,49123,Conservative,Labour,21766,18713,44.3,3053,6.22,71.3,46.7,53.3,6.6,Labour,True,False
+Kenilworth and Southam,West Midlands,28474,7472,5467,4913,0,1956,0,0,0,0,0,0,0,0,509,48791,Conservative,Labour,28474,7472,58.4,21002,43.04,74.8,53.5,46.5,-7.0,Conservative,False,False
+Kensington,London,18199,10838,1557,1962,0,1765,0,0,0,0,0,0,0,0,507,34828,Conservative,Labour,18199,10838,52.3,7361,21.14,56.8,68.7,31.3,-37.4,Labour,True,False
+Kettering,East Midlands,24467,11877,7600,1490,0,1633,0,0,0,0,0,0,0,0,151,47218,Conservative,Labour,24467,11877,51.8,12590,26.66,67.3,39.0,61.0,22.0,Conservative,False,False
+Kilmarnock and Loudoun,Scotland,6752,16362,0,789,30000,0,0,0,0,0,0,0,0,0,0,53903,SNP,Labour,30000,16362,55.7,13638,25.3,71.6,60.4,39.6,-20.8,SNP,False,False
+Kingston and Surbiton,London,23249,8574,4321,20415,0,2322,0,0,0,0,0,0,0,0,372,59253,Conservative,Liberal Democrat,23249,20415,39.2,2834,4.78,72.9,58.5,41.5,-17.0,Liberal Democrat,True,False
+Kingston upon Hull East,Yorkshire and The Humber,5593,18180,7861,2294,0,806,0,0,0,0,0,0,0,0,410,35144,Labour,UKIP,18180,7861,51.7,10319,29.36,53.6,27.4,72.6,45.2,Labour,False,False
+Kingston upon Hull North,Yorkshire and The Humber,5306,18661,5762,3175,0,2066,0,0,0,0,0,0,0,0,366,35336,Labour,UKIP,18661,5762,52.8,12899,36.5,55.5,40.1,59.9,19.8,Labour,False,False
+Kingston upon Hull West and Hessle,Yorkshire and The Humber,5561,15646,6313,3169,0,943,0,0,0,0,0,0,0,0,171,31803,Labour,UKIP,15646,6313,49.2,9333,29.35,53.9,32.2,67.8,35.6,Labour,False,False
+Kingswood,South West,23252,14246,7133,1827,0,1370,0,0,0,0,0,0,0,0,297,48125,Conservative,Labour,23252,14246,48.3,9006,18.71,70.8,43.2,56.8,13.6,Conservative,False,False
+Kirkcaldy and Cowdenbeath,Scotland,5223,17654,1237,1150,27628,0,0,0,0,0,0,0,0,0,0,52892,SNP,Labour,27628,17654,52.2,9974,18.86,69.6,58.4,41.6,-16.8,Labour,True,False
+Knowsley,North West,3367,39628,4973,1490,0,1270,0,0,0,0,0,0,0,0,0,50728,Labour,UKIP,39628,4973,78.1,34655,68.32,64.1,47.6,52.4,4.8,Labour,False,False
+Lagan Valley,Northern Ireland,654,0,2200,0,0,0,19055,0,1144,6055,2500,5544,756,0,1887,39795,Democratic Unionist,Ulster Unionist,19055,6055,47.9,13000,32.67,55.9,46.9,53.1,6.2,Democratic Unionist,False,False
+Lanark and Hamilton East,Scotland,8772,16876,1431,1203,26976,0,0,0,0,0,0,0,0,0,0,55258,SNP,Labour,26976,16876,48.8,10100,18.28,69.1,64.6,35.4,-29.2,SNP,False,False
+Lancaster and Fleetwood,North West,16378,17643,4060,1390,0,2093,0,0,0,0,0,0,0,0,174,41738,Labour,Conservative,17643,16378,42.3,1265,3.03,68.6,49.1,50.9,1.8,Labour,False,False
+Leeds Central,Yorkshire and The Humber,7791,24758,7082,1529,0,3558,0,0,0,0,0,0,0,0,330,45048,Labour,Conservative,24758,7791,55.0,16967,37.66,55.1,52.4,47.4,-5.0,Labour,False,False
+Leeds East,Yorkshire and The Humber,7997,20530,7256,1296,0,1117,0,0,0,0,0,0,0,0,0,38196,Labour,Conservative,20530,7997,53.7,12533,32.81,59.0,39.1,60.9,21.8,Labour,False,False
+Leeds North East,Yorkshire and The Humber,15887,23137,3706,2569,0,2541,0,0,0,0,0,0,0,0,451,48291,Labour,Conservative,23137,15887,47.9,7250,15.01,69.9,62.7,37.3,-25.4,Labour,False,False
+Leeds North West,Yorkshire and The Humber,8083,13041,2997,15948,0,3042,0,0,0,0,0,0,0,0,246,43357,Liberal Democrat,Labour,15948,13041,36.8,2907,6.7,70.0,64.7,35.3,-29.4,Labour,True,False
+Leeds West,Yorkshire and The Humber,7729,18456,7104,1495,0,3217,0,0,0,0,0,0,0,0,422,38423,Labour,Conservative,18456,7729,48.0,10727,27.92,59.2,45.1,54.9,9.8,Labour,False,False
+Leicester East,East Midlands,11034,29386,4290,1233,0,1468,0,0,0,0,0,0,0,0,657,48068,Labour,Conservative,29386,11034,61.1,18352,38.18,63.7,46.9,53.1,6.2,Labour,False,False
+Leicester South,East Midlands,9628,27473,3832,2127,0,2533,0,0,0,0,0,0,0,0,349,45942,Labour,Conservative,27473,9628,59.8,17845,38.84,62.5,57.5,42.5,-15.0,Labour,False,False
+Leicester West,East Midlands,8848,16051,5950,1507,0,1878,0,0,0,0,0,0,0,0,288,34522,Labour,Conservative,16051,8848,46.5,7203,20.86,54.6,48.4,51.6,3.2,Labour,False,False
+Leigh,North West,10216,24312,8903,1150,0,0,0,0,0,0,0,0,0,0,542,45123,Labour,Conservative,24312,10216,53.9,14096,31.24,59.4,36.6,63.4,26.8,Labour,False,False
+Lewes,South East,19206,5000,5427,18123,0,2784,0,0,0,0,0,0,0,0,0,50540,Conservative,Liberal Democrat,19206,18123,38.0,1083,2.14,72.7,53.1,46.9,-6.2,Conservative,False,False
+Lewisham East,London,9574,23907,3886,2455,0,2429,0,0,0,0,0,0,0,0,672,42923,Labour,Conservative,23907,9574,55.7,14333,33.39,58.5,64.6,35.4,-29.2,Labour,False,False
+Lewisham West and Penge,London,11633,24347,3764,3709,0,4077,0,0,0,0,0,0,0,0,595,48125,Labour,Conservative,24347,11633,50.6,12714,26.42,66.6,65.6,34.4,-31.2,Labour,False,False
+Lewisham Deptford,London,7056,28572,2013,2497,0,5932,0,0,0,0,0,0,0,0,1356,47426,Labour,Conservative,28572,7056,60.2,21516,45.37,64.6,75.4,24.6,-50.8,Labour,False,False
+Leyton and Wanstead,London,8939,23858,2341,2304,0,2974,0,0,0,0,0,0,0,0,289,40705,Labour,Conservative,23858,8939,58.6,14919,36.65,62.9,62.9,37.1,-25.8,Labour,False,False
+Lichfield,West Midlands,28389,10200,8082,2700,0,1976,0,0,0,0,0,0,0,0,120,51467,Conservative,Labour,28389,10200,55.2,18189,35.34,61.8,42.5,57.5,15.0,Conservative,False,False
+Lincoln,East Midlands,19976,18533,5721,1992,0,0,0,0,0,0,0,0,0,0,630,46852,Conservative,Labour,19976,18533,42.6,1443,3.08,63.2,42.7,57.3,14.6,Labour,True,False
+Linlithgow and East Falkirk,Scotland,7384,19121,1682,1252,32055,0,0,0,0,0,0,0,0,0,103,61597,SNP,Labour,32055,19121,52.03,12934,21.0,70.8,58.4,41.6,-16.8,SNP,False,False
+Liverpool Riverside,North West,4245,29835,2510,1719,0,5372,0,0,0,0,0,0,0,0,582,44263,Labour,Green,29835,5372,67.4,24463,55.27,62.4,73.2,26.8,-46.4,Labour,False,False
+Liverpool Walton,North West,1802,31222,3445,899,0,956,0,0,0,0,0,0,0,0,79,38403,Labour,UKIP,31222,3445,81.3,27777,72.33,61.1,46.2,53.8,7.6,Labour,False,False
+Liverpool Wavertree,North West,4098,28401,3375,2454,0,2140,0,0,0,0,0,0,0,0,506,40974,Labour,Conservative,28401,4098,69.3,24303,59.31,66.4,64.2,35.8,-28.4,Labour,False,False
+Liverpool West Derby,North West,2710,30842,3475,959,0,996,0,0,0,0,0,0,0,0,2049,41031,Labour,UKIP,30842,3475,75.2,27367,66.7,64.2,49.8,50.2,0.4,Labour,False,False
+Livingston,Scotland,5929,15893,1757,1232,32736,0,0,0,0,0,0,0,0,0,0,57547,SNP,Labour,32736,15893,56.9,16843,29.27,69.9,56.2,43.8,-12.4,SNP,False,False
+Llanelli,Wales,5534,15948,6269,751,0,689,0,8853,0,0,0,0,0,0,530,38574,Labour,Plaid Cymru,15948,8853,41.3,7095,18.39,64.5,44.6,55.4,10.8,Labour,False,False
+Loughborough,East Midlands,25762,16579,5704,2130,0,1845,0,0,0,0,0,0,0,0,0,52020,Conservative,Labour,25762,16579,49.5,9183,17.65,71.6,50.4,49.6,-0.8,Conservative,False,False
+Louth and Horncastle,East Midlands,25755,9077,10778,2255,0,1549,0,0,0,0,0,0,0,0,922,50336,Conservative,UKIP,25755,10778,51.2,14977,29.75,67.8,30.6,69.4,38.8,Conservative,False,False
+Ludlow,West Midlands,26093,5902,7164,6469,0,2435,0,0,0,0,0,0,0,0,0,48063,Conservative,UKIP,26093,7164,54.3,18929,39.38,72.4,41.5,58.5,17.0,Conservative,False,False
+Luton North,East,12739,22243,5318,1299,0,972,0,0,0,0,0,0,0,0,0,42571,Labour,Conservative,22243,12739,52.2,9504,22.33,64.0,41.8,58.2,16.4,Labour,False,False
+Luton South,East,12949,18660,5129,3183,0,1237,0,0,0,0,0,0,900,0,158,42216,Labour,Conservative,18660,12949,44.2,5711,13.53,62.8,44.6,55.4,10.8,Labour,False,False
+Macclesfield,North West,26063,11252,6037,3842,0,2404,0,0,0,0,0,0,0,0,0,49598,Conservative,Labour,26063,11252,52.5,14811,29.86,69.3,51.9,48.1,-3.8,Conservative,False,False
+Maidenhead,South East,35453,6394,4539,5337,0,1915,0,0,0,0,0,0,0,0,217,53855,Conservative,Labour,35453,6394,65.8,29059,53.96,71.8,54.6,45.4,-9.2,Conservative,False,False
+Maidstone and The Weald,South East,22745,5268,7930,12036,0,1396,0,0,0,0,0,0,0,0,635,50010,Conservative,Liberal Democrat,22745,12036,45.5,10709,21.41,68.3,44.2,55.8,11.6,Conservative,False,False
+Makerfield,North West,8752,23208,10053,1639,0,1136,0,0,0,0,0,0,0,0,0,44788,Labour,UKIP,23208,10053,51.8,13155,29.37,60.2,35.0,65.0,30.0,Labour,False,False
+Maldon,East,29112,5690,7042,2157,0,1504,0,0,0,0,0,0,2424,0,116,48045,Conservative,UKIP,29112,7042,60.6,22070,45.94,69.2,38.7,61.3,22.6,Conservative,False,False
+Manchester Central,North West,6133,27772,5033,1867,0,3838,0,0,0,0,0,0,0,0,688,45331,Labour,Conservative,27772,6133,61.3,21639,47.74,52.7,63.4,36.6,-26.8,Labour,False,False
+Manchester Gorton,North West,4063,28187,3434,1782,0,4108,0,0,0,0,0,0,0,0,445,42019,Labour,Green,28187,4108,67.1,24079,57.31,57.6,62.1,37.9,-24.2,Labour,False,False
+Manchester Withington,North West,4872,26843,2172,11970,0,4048,0,0,0,0,0,0,0,0,61,49966,Labour,Liberal Democrat,26843,11970,53.7,14873,29.77,62.0,73.7,26.3,-47.4,Labour,False,False
+Mansfield,East Midlands,13288,18603,11850,1642,0,1486,0,0,0,0,0,0,0,0,324,47193,Labour,Conservative,18603,13288,39.4,5315,11.26,60.9,29.1,70.9,41.8,Conservative,True,False
+Meon Valley,South East,31578,5656,7665,4987,0,1831,0,0,0,0,0,0,0,0,0,51717,Conservative,UKIP,31578,7665,61.1,23913,46.24,71.1,47.1,52.9,5.8,Conservative,False,False
+Meriden,West Midlands,28791,9996,8908,2638,0,2170,0,0,0,0,0,0,0,0,100,52603,Conservative,Labour,28791,9996,54.7,18795,35.73,64.9,42.0,58.0,16.0,Conservative,False,False
+Merthyr Tydfil and Rhymney,Wales,3292,17619,6106,1351,0,603,0,3099,0,0,0,0,459,0,186,32715,Labour,UKIP,17619,6106,53.9,11513,35.19,53.0,41.6,58.4,16.8,Labour,False,False
+Mid Bedfordshire,East,32544,9217,8966,4193,0,2462,0,0,0,0,0,0,0,0,678,58060,Conservative,Labour,32544,9217,56.1,23327,40.18,71.6,47.8,52.2,4.4,Conservative,False,False
+Mid Derbyshire,East Midlands,24908,12134,6497,2292,0,1898,0,0,0,0,0,0,0,0,0,47729,Conservative,Labour,24908,12134,52.2,12774,26.76,70.6,47.5,52.5,5.0,Conservative,False,False
+Mid Dorset and North Poole,South West,23639,2767,5663,13109,0,1321,0,0,0,0,0,0,0,0,0,46499,Conservative,Liberal Democrat,23639,13109,50.8,10530,22.65,67.5,42.1,57.9,15.8,Conservative,False,False
+Mid Norfolk,East,27206,9585,9930,3300,0,2191,0,0,0,0,0,0,0,0,0,52212,Conservative,UKIP,27206,9930,52.1,17276,33.09,67.8,39.5,60.5,21.0,Conservative,False,False
+Mid Sussex,South East,32268,7982,6898,6604,0,2453,0,0,0,0,0,0,0,0,1287,57492,Conservative,Labour,32268,7982,56.1,24286,42.24,72.3,53.4,46.6,-6.8,Conservative,False,False
+Mid Ulster,Northern Ireland,120,0,863,0,0,0,5465,0,19935,6318,5055,778,0,0,2388,40922,Sinn Fein,Ulster Unionist,19935,6318,48.7,13617,33.28,60.3,60.4,39.6,-20.8,Sinn Fein,False,False
+Mid Worcestershire,West Midlands,29763,7548,9231,3750,0,1933,0,0,0,0,0,0,0,0,0,52225,Conservative,UKIP,29763,9231,57.0,20532,39.31,71.5,41.1,58.9,17.8,Conservative,False,False
+Middlesbrough,North East,5388,18584,6107,1220,0,1407,0,0,0,0,0,0,0,0,0,32706,Labour,UKIP,18584,6107,56.8,12477,38.15,52.9,34.0,66.0,32.0,Labour,False,False
+Middlesbrough South and East Cleveland,North East,16925,19193,6935,1564,0,1060,0,0,0,0,0,0,0,0,0,45677,Labour,Conservative,19193,16925,42.0,2268,4.97,64.2,35.0,65.0,30.0,Conservative,True,False
+Midlothian,Scotland,5760,14594,1173,1132,24453,1219,0,0,0,0,0,0,0,0,0,48331,SNP,Labour,24453,14594,50.6,9859,20.4,71.2,62.1,37.9,-24.2,Labour,True,False
+Milton Keynes North,South East,27244,17491,6852,3575,0,2255,0,0,0,0,0,0,0,0,275,57692,Conservative,Labour,27244,17491,47.2,9753,16.91,68.0,50.2,49.8,-0.4,Conservative,False,False
+Milton Keynes South,South East,27601,18929,7803,2309,0,1936,0,0,0,0,0,0,0,0,371,58949,Conservative,Labour,27601,18929,46.8,8672,14.71,67.0,47.1,52.9,5.8,Conservative,False,False
+Mitcham and Morden,London,10458,27380,4287,1378,0,1422,0,0,0,0,0,0,0,0,217,45142,Labour,Conservative,27380,10458,60.7,16922,37.49,65.9,55.3,44.7,-10.6,Labour,False,False
+Mole Valley,South East,33434,4565,6181,7981,0,2979,0,0,0,0,0,0,0,0,0,55140,Conservative,Liberal Democrat,33434,7981,60.6,25453,46.16,74.2,52.5,47.5,-5.0,Conservative,False,False
+Monmouth,Wales,23701,12719,4942,2496,0,1629,0,1875,0,0,0,0,0,0,100,47462,Conservative,Labour,23701,12719,49.9,10982,23.14,76.2,52.2,47.8,-4.4,Conservative,False,False
+Montgomeryshire,Wales,15204,1900,3769,9879,0,1260,0,1745,0,0,0,0,0,0,0,33757,Conservative,Liberal Democrat,15204,9879,45.0,5325,15.77,69.3,44.1,55.9,11.8,Conservative,False,False
+Moray,Scotland,15319,4898,1939,1395,24384,1345,0,0,0,0,0,0,0,0,0,49280,SNP,Conservative,24384,15319,49.5,9065,18.39,68.7,50.1,49.9,-0.2,Conservative,True,False
+Morecambe and Lunesdale,North West,19691,15101,5358,1612,0,1395,0,0,0,0,0,0,0,0,85,43242,Conservative,Labour,19691,15101,45.5,4590,10.61,65.0,41.1,58.9,17.8,Conservative,False,False
+Morley and Outwood,Yorkshire and The Humber,18776,18354,7951,1426,0,1264,0,0,0,0,0,0,0,0,479,48250,Conservative,Labour,18776,18354,38.9,422,0.87,63.3,40.3,59.7,19.4,Conservative,False,False
+Motherwell and Wishaw,Scotland,3695,15377,1289,601,27275,0,0,0,0,0,0,0,0,0,0,48237,SNP,Labour,27275,15377,56.5,11898,24.67,68.6,63.1,36.9,-26.2,SNP,False,False
+Na h-Eileanan an Iar,Scotland,1215,4560,0,456,8662,0,0,0,0,0,0,0,0,0,1045,15938,SNP,Labour,8662,4560,54.3,4102,25.74,73.2,55.2,44.8,-10.4,SNP,False,False
+Neath,Wales,5691,16270,6094,1173,0,1185,0,6722,0,0,0,0,0,0,0,37135,Labour,Plaid Cymru,16270,6722,43.8,9548,25.71,66.2,45.8,54.2,8.4,Labour,False,False
+New Forest East,South East,27819,6018,8657,4626,0,2327,0,0,0,0,0,0,0,0,0,49447,Conservative,UKIP,27819,8657,56.3,19162,38.75,68.0,40.5,59.5,19.0,Conservative,False,False
+New Forest West,South East,28420,5133,7816,3293,0,2748,0,0,0,0,0,0,0,0,0,47410,Conservative,UKIP,28420,7816,59.9,20604,43.46,69.2,44.2,55.8,11.6,Conservative,False,False
+Newark,East Midlands,29834,11360,6294,2385,0,1792,0,0,0,0,0,0,0,0,637,52302,Conservative,Labour,29834,11360,57.0,18474,35.32,70.9,44.3,55.7,11.4,Conservative,False,False
+Newbury,South East,34973,4837,6195,8605,0,2324,0,0,0,0,0,0,0,0,366,57300,Conservative,Liberal Democrat,34973,8605,61.0,26368,46.02,72.5,52.5,47.5,-5.0,Conservative,False,False
+Newcastle upon Tyne Central,North East,6628,19301,5214,2218,0,1724,0,0,0,0,0,0,0,0,0,35085,Labour,Conservative,19301,6628,55.0,12673,36.12,57.5,51.7,48.3,-3.4,Labour,False,False
+Newcastle upon Tyne East,North East,6884,19378,4910,4332,0,3426,0,0,0,0,0,0,0,0,292,39222,Labour,Conservative,19378,6884,49.4,12494,31.85,52.9,58.9,41.1,-17.8,Labour,False,False
+Newcastle upon Tyne North,North East,10536,20689,7447,4366,0,1515,0,0,0,0,0,0,0,0,338,44891,Labour,Conservative,20689,10536,46.1,10153,22.62,66.7,42.9,57.1,14.2,Labour,False,False
+Newcastle-under-Lyme,West Midlands,15870,16520,7252,1826,0,1246,0,0,0,0,0,0,0,0,283,42997,Labour,Conservative,16520,15870,38.4,650,1.51,64.4,38.4,61.6,23.2,Labour,False,False
+Newport East,Wales,9585,14290,6466,2251,0,887,0,1231,0,0,0,0,0,0,398,35108,Labour,Conservative,14290,9585,40.7,4705,13.4,62.7,39.8,60.2,20.4,Labour,False,False
+Newport West,Wales,13123,16633,6134,1581,0,1272,0,1604,0,0,0,0,0,0,0,40347,Labour,Conservative,16633,13123,41.2,3510,8.7,64.9,47.0,53.0,6.0,Labour,False,False
+Newry and Armagh,Northern Ireland,210,0,0,0,0,0,0,0,20488,16312,12026,841,0,0,0,49877,Sinn Fein,Ulster Unionist,20488,16312,41.1,4176,8.37,64.2,62.9,37.1,-25.8,Sinn Fein,False,False
+Newton Abbot,South West,22794,4736,6726,11506,0,2216,0,0,0,0,0,0,0,0,221,48199,Conservative,Liberal Democrat,22794,11506,47.3,11288,23.42,69.1,43.9,56.1,12.2,Conservative,False,False
+"Normanton, Pontefract and Castleford",Yorkshire and The Humber,9569,25213,9785,1330,0,0,0,0,0,0,0,0,0,0,0,45897,Labour,UKIP,25213,9785,54.9,15428,33.61,55.6,30.7,69.3,38.6,Labour,False,False
+North Antrim,Northern Ireland,368,0,1341,0,0,0,18107,0,5143,5054,2925,2351,0,0,6618,41907,Democratic Unionist,Others,18107,6618,43.2,11489,27.42,55.2,37.8,62.2,24.4,Democratic Unionist,False,False
+North Ayrshire and Arran,Scotland,7968,15068,1296,896,28641,0,0,0,0,0,0,0,0,0,0,53869,SNP,Labour,28641,15068,53.2,13573,25.2,71.1,57.8,42.2,-15.6,SNP,False,False
+North Cornwall,South West,21689,2621,6121,15068,0,2063,0,0,0,0,0,0,0,0,683,48245,Conservative,Liberal Democrat,21689,15068,45.0,6621,13.72,,40.5,59.5,19.0,Conservative,False,False
+North Devon,South West,22341,3699,7719,15405,0,3018,0,0,0,0,0,0,0,0,138,52320,Conservative,Liberal Democrat,22341,15405,42.7,6936,13.26,70.0,43.0,57.0,14.0,Conservative,False,False
+North Dorset,South West,30227,4785,9109,6226,0,3038,0,0,0,0,0,0,0,0,0,53385,Conservative,UKIP,30227,9109,56.6,21118,39.56,71.6,43.6,56.4,12.8,Conservative,False,False
+North Down,Northern Ireland,1593,0,1482,0,0,1958,8487,0,273,0,355,3086,17689,0,1024,35947,Independent,Democratic Unionist,17689,8487,49.2,9202,25.6,56.0,52.4,47.6,-4.8,Independent,False,False
+North Durham,North East,8403,22047,6404,2046,0,1246,0,0,0,0,0,0,0,0,0,40146,Labour,Conservative,22047,8403,54.9,13644,33.99,61.4,39.9,60.1,20.2,Labour,False,False
+North East Bedfordshire,East,34891,9247,8579,3418,0,2537,0,0,0,0,0,0,0,0,0,58672,Conservative,Labour,34891,9247,59.5,25644,43.71,70.2,46.8,53.2,6.4,Conservative,False,False
+North East Cambridgeshire,East,28524,7476,11650,2314,0,1816,0,0,0,0,0,0,0,0,0,51780,Conservative,UKIP,28524,11650,55.1,16874,32.59,62.4,30.6,69.4,38.8,Conservative,False,False
+North East Derbyshire,East Midlands,17605,19488,7631,2004,0,1059,0,0,0,0,0,0,0,0,161,47948,Labour,Conservative,19488,17605,40.6,1883,3.93,67.1,37.9,62.1,24.2,Conservative,True,False
+North East Fife,Scotland,7373,3476,0,14179,18523,1387,0,0,0,0,0,0,325,0,0,45263,SNP,Liberal Democrat,18523,14179,40.9,4344,9.6,73.0,61.9,38.1,-23.8,SNP,False,False
+North East Hampshire,South East,35573,5290,4732,5657,0,2364,0,0,0,0,0,0,0,0,384,54000,Conservative,Liberal Democrat,35573,5657,65.9,29916,55.4,72.9,54.1,45.9,-8.2,Conservative,False,False
+North East Hertfordshire,East,28949,9869,6728,3952,0,2789,0,0,0,0,0,0,0,0,0,52287,Conservative,Labour,28949,9869,55.4,19080,36.49,70.7,48.7,51.3,2.6,Conservative,False,False
+North East Somerset,South West,25439,12690,6150,4029,0,2802,0,0,0,0,0,0,0,0,0,51110,Conservative,Labour,25439,12690,49.8,12749,24.94,73.7,47.9,52.1,4.2,Conservative,False,False
+North Herefordshire,West Midlands,26716,5478,6720,5768,0,3341,0,0,0,0,0,0,0,0,0,48023,Conservative,UKIP,26716,6720,55.6,19996,41.64,72.0,41.8,58.2,16.4,Conservative,False,False
+North Norfolk,East,15256,5043,8328,19299,0,1488,0,0,0,0,0,0,0,0,0,49414,Liberal Democrat,Conservative,19299,15256,39.1,4043,8.18,71.7,41.8,58.2,16.4,Liberal Democrat,False,False
+North Shropshire,West Midlands,27041,10547,9262,3148,0,2575,0,0,0,0,0,0,0,0,0,52573,Conservative,Labour,27041,10547,51.4,16494,31.37,66.6,40.6,59.4,18.8,Conservative,False,False
+North Somerset,South West,31540,8441,7669,7486,0,3806,0,0,0,0,0,0,0,0,0,58942,Conservative,Labour,31540,8441,53.5,23099,39.19,73.6,52.1,47.9,-4.2,Conservative,False,False
+North Swindon,South West,26295,14509,8011,1704,0,1723,0,0,0,0,0,0,0,0,0,52242,Conservative,Labour,26295,14509,50.3,11786,22.56,64.5,42.6,57.4,14.8,Conservative,False,False
+North Thanet,South East,23045,8411,12097,1645,0,1719,0,0,0,0,0,0,0,0,136,47053,Conservative,UKIP,23045,12097,49.0,10948,23.27,66.7,35.1,64.9,29.8,Conservative,False,False
+North Tyneside,North East,8997,26191,7618,2075,0,1442,0,0,0,0,0,0,0,0,495,46818,Labour,Conservative,26191,8997,55.9,17194,36.73,59.0,40.7,59.3,18.6,Labour,False,False
+North Warwickshire,West Midlands,20042,17069,8256,978,0,894,0,0,0,0,0,0,0,0,138,47377,Conservative,Labour,20042,17069,42.3,2973,6.28,67.5,32.3,67.7,35.4,Conservative,False,False
+North Wiltshire,South West,28938,4930,5813,7892,0,2350,0,0,0,0,0,0,0,0,633,50556,Conservative,Liberal Democrat,28938,7892,57.2,21046,41.63,74.5,49.7,50.3,0.6,Conservative,False,False
+Northampton North,East Midlands,16699,13454,6354,1401,0,1503,0,0,0,0,0,0,0,0,0,39411,Conservative,Labour,16699,13454,42.4,3245,8.23,66.6,39.4,60.6,21.2,Conservative,False,False
+Northampton South,East Midlands,16163,12370,7114,1673,0,1403,0,0,0,0,0,0,0,0,161,38884,Conservative,Labour,16163,12370,41.6,3793,9.75,63.4,40.4,59.6,19.2,Conservative,False,False
+Norwich North,East,19052,14589,5986,1894,0,1939,0,0,0,0,0,0,0,0,132,43592,Conservative,Labour,19052,14589,43.7,4463,10.24,66.9,42.7,57.3,14.6,Conservative,False,False
+Norwich South,East,11379,19033,4539,6607,0,6749,0,0,0,0,0,0,0,0,156,48463,Labour,Conservative,19033,11379,39.3,7654,15.79,64.7,59.8,40.2,-19.6,Labour,False,False
+Nottingham East,East Midlands,7314,19208,3501,1475,0,3473,0,0,0,0,0,0,0,0,238,35209,Labour,Conservative,19208,7314,54.6,11894,33.78,58.2,57.1,42.9,-14.2,Labour,False,False
+Nottingham North,East Midlands,7423,19283,6542,847,0,1088,0,0,0,0,0,0,0,0,160,35343,Labour,Conservative,19283,7423,54.6,11860,33.56,53.6,36.2,63.8,27.6,Labour,False,False
+Nottingham South,East Midlands,13761,20697,4900,1532,0,2345,0,0,0,0,0,0,0,0,230,43465,Labour,Conservative,20697,13761,47.6,6936,15.96,63.0,53.5,46.5,-7.0,Labour,False,False
+Nuneaton,West Midlands,20827,15945,6582,816,0,1281,0,0,0,0,0,0,0,0,298,45749,Conservative,Labour,20827,15945,45.5,4882,10.67,67.2,35.3,64.7,29.4,Conservative,False,False
+North West Cambridgeshire,East,32070,10927,12275,3479,0,2159,0,0,0,0,0,0,0,0,190,61100,Conservative,UKIP,32070,12275,52.5,19795,32.4,66.6,43.1,56.9,13.8,Conservative,False,False
+North West Durham,North East,10018,20074,7265,3894,0,1567,0,0,0,0,0,0,0,0,0,42818,Labour,Conservative,20074,10018,46.9,10056,23.49,61.3,45.1,54.9,9.8,Labour,False,False
+North West Hampshire,South East,32052,7342,8109,5151,0,2541,0,0,0,0,0,0,0,0,0,55195,Conservative,UKIP,32052,8109,58.1,23943,43.38,69.7,45.5,54.5,9.0,Conservative,False,False
+North West Leicestershire,East Midlands,25505,14132,8704,2033,0,1174,0,0,0,0,0,0,0,0,0,51548,Conservative,Labour,25505,14132,49.5,11373,22.06,71.4,39.3,60.7,21.4,Conservative,False,False
+North West Norfolk,East,24727,10779,8412,1673,0,1780,0,0,0,0,0,0,0,0,0,47371,Conservative,Labour,24727,10779,52.2,13948,29.44,65.4,33.9,66.1,32.2,Conservative,False,False
+Ochil and South Perthshire,Scotland,11987,16452,1331,1481,26620,0,0,0,0,0,0,0,0,0,0,57871,SNP,Labour,26620,16452,46.0,10168,17.57,74.8,60.8,39.2,-21.6,Conservative,True,False
+Ogmore,Wales,5620,18663,5420,1072,0,754,0,3556,0,0,0,0,0,0,165,35250,Labour,Conservative,18663,5620,52.9,13043,37.0,63.7,40.3,59.7,19.4,Labour,False,False
+Old Bexley and Sidcup,London,24682,8879,8528,1644,0,1336,0,0,0,0,0,0,1216,0,463,46748,Conservative,Labour,24682,8879,52.8,15803,33.8,70.8,36.8,63.1,26.3,Conservative,False,False
+Oldham East and Saddleworth,North West,11527,17529,8557,5718,0,1152,0,0,0,0,0,0,0,0,0,44483,Labour,Conservative,17529,11527,39.4,6002,13.49,61.8,40.1,59.9,19.8,Labour,False,False
+Oldham West and Royton,North West,8187,23630,8892,1589,0,839,0,0,0,0,0,0,0,0,0,43137,Labour,UKIP,23630,8892,54.8,14738,34.17,59.6,37.9,62.1,24.2,Labour,False,False
+Orkney and Shetland,Scotland,2025,1624,1082,9407,8590,0,0,0,0,0,0,0,0,0,0,22728,Liberal Democrat,SNP,9407,8590,41.4,817,3.59,65.8,59.7,40.3,-19.4,Liberal Democrat,False,False
+Orpington,London,28152,7645,8173,3330,0,1732,0,0,0,0,0,0,0,0,0,49032,Conservative,UKIP,28152,8173,57.4,19979,40.75,72.0,42.5,57.5,15.0,Conservative,False,False
+Oxford East,South East,10076,25356,3451,5453,0,5890,0,0,0,0,0,0,0,0,463,50689,Labour,Conservative,25356,10076,50.0,15280,30.14,64.2,67.7,32.3,-35.4,Labour,False,False
+Oxford West and Abingdon,South East,26153,7274,3963,16571,0,2497,0,0,0,0,0,0,0,0,789,57247,Conservative,Liberal Democrat,26153,16571,45.7,9582,16.74,71.8,61.9,38.1,-23.8,Liberal Democrat,True,False
+Paisley and Renfrewshire North,Scotland,6183,16525,0,1055,25601,703,0,0,0,0,0,0,0,0,395,50462,SNP,Labour,25601,16525,50.7,9076,17.99,76.2,64.0,36.0,-28.0,SNP,False,False
+Paisley and Renfrewshire South,Scotland,3526,17864,0,1010,23548,0,0,0,0,0,0,0,0,0,278,46226,SNP,Labour,23548,17864,50.9,5684,12.3,75.4,65.9,34.1,-31.8,SNP,False,False
+Pendle,North West,20978,15525,5415,1487,0,1043,0,0,0,0,0,0,0,0,0,44448,Conservative,Labour,20978,15525,47.2,5453,12.27,68.7,36.8,63.2,26.4,Conservative,False,False
+Penistone and Stocksbridge,Yorkshire and The Humber,12968,19691,10738,2957,0,0,0,0,0,0,0,0,0,0,500,46854,Labour,Conservative,19691,12968,42.0,6723,14.35,65.9,38.7,61.3,22.6,Labour,False,False
+Penrith and The Border,North West,26202,6308,5353,3745,0,2313,0,0,0,0,0,0,0,0,0,43921,Conservative,Labour,26202,6308,59.7,19894,45.29,67.4,44.7,55.3,10.6,Conservative,False,False
+Perth and North Perthshire,Scotland,17738,4413,1110,2059,27379,1146,0,0,0,0,0,0,355,0,0,54200,SNP,Conservative,27379,17738,50.5,9641,17.79,74.8,59.9,40.1,-19.8,SNP,False,False
+Peterborough,East,18684,16759,7485,1774,0,1218,0,0,0,0,0,0,0,0,1155,47075,Conservative,Labour,18684,16759,39.7,1925,4.09,64.9,37.9,62.1,24.2,Labour,True,False
+Plymouth Moor View,South West,16020,14994,9152,1265,0,1023,0,0,0,0,0,0,0,0,152,42606,Conservative,Labour,16020,14994,37.6,1026,2.41,62.6,33.6,66.4,32.8,Conservative,False,False
+Plymouth Sutton and Devonport,South West,18120,17597,6731,2008,0,3401,0,0,0,0,0,0,0,0,106,47963,Conservative,Labour,18120,17597,37.8,523,1.09,65.3,45.6,54.4,8.8,Labour,True,False
+Pontypridd,Wales,6569,15554,5085,4904,0,992,0,4348,0,0,0,0,0,0,430,37882,Labour,Conservative,15554,6569,41.1,8985,23.72,64.3,54.2,45.8,-8.4,Labour,False,False
+Poole,South West,23745,6102,7956,5572,0,2198,0,0,0,0,0,0,0,0,1820,47393,Conservative,UKIP,23745,7956,50.1,15789,33.32,65.3,43.1,56.9,13.8,Conservative,False,False
+Poplar and Limehouse,London,12962,29886,3128,2149,0,2463,0,0,0,0,0,0,0,0,456,51044,Labour,Conservative,29886,12962,58.5,16924,33.16,62.2,65.9,34.1,-31.8,Labour,False,False
+Portsmouth North,South East,21343,10806,8660,2828,0,1450,0,0,0,0,0,0,0,0,303,45390,Conservative,Labour,21343,10806,47.0,10537,23.21,62.1,36.4,63.6,27.2,Conservative,False,False
+Portsmouth South,South East,14585,8184,5595,9344,0,3145,0,0,0,0,0,0,716,0,334,41903,Conservative,Liberal Democrat,14585,9344,34.8,5241,12.51,58.5,48.2,51.8,3.6,Labour,True,False
+Preseli Pembrokeshire,Wales,16383,11414,4257,780,0,1452,0,2518,0,0,0,0,3729,0,23,40556,Conservative,Labour,16383,11414,40.4,4969,12.25,70.7,44.3,55.7,11.4,Conservative,False,False
+Preston,North West,6688,18755,5139,1244,0,1643,0,0,0,0,0,0,0,0,0,33469,Labour,Conservative,18755,6688,56.0,12067,36.05,55.8,43.2,56.8,13.6,Labour,False,False
+Pudsey,Yorkshire and The Humber,23637,19136,4689,1926,0,1539,0,0,0,0,0,0,0,0,0,50927,Conservative,Labour,23637,19136,46.4,4501,8.84,72.2,51.7,48.3,-3.4,Conservative,False,False
+Putney,London,23018,12838,1989,2717,0,2067,0,0,0,0,0,0,0,0,184,42813,Conservative,Labour,23018,12838,53.8,10180,23.78,67.0,73.2,26.8,-46.4,Conservative,False,False
+Rayleigh and Wickford,East,29088,6705,11858,1622,0,1529,0,0,0,0,0,0,0,0,2418,53220,Conservative,UKIP,29088,11858,54.7,17230,32.38,68.3,32.2,67.8,35.6,Conservative,False,False
+Reading East,South East,23217,16697,3647,3719,0,3214,0,0,0,0,0,0,0,0,0,50494,Conservative,Labour,23217,16697,46.0,6520,12.91,67.6,61.8,38.2,-23.6,Labour,True,False
+Reading West,South East,23082,16432,4826,2355,0,1406,0,0,0,0,0,0,0,0,303,48404,Conservative,Labour,23082,16432,47.7,6650,13.74,66.9,47.4,52.6,5.2,Conservative,False,False
+Redcar,North East,6630,17946,7516,7558,0,880,0,0,0,0,0,0,0,0,389,40919,Labour,Liberal Democrat,17946,7558,43.9,10388,25.39,63.1,32.5,67.5,35.0,Labour,False,False
+Redditch,West Midlands,20771,13717,7133,1349,0,960,0,0,0,0,0,0,0,0,168,44098,Conservative,Labour,20771,13717,47.1,7054,16.0,67.3,38.6,61.4,22.8,Conservative,False,False
+Reigate,South East,29151,6578,6817,5369,0,3434,0,0,0,0,0,0,0,0,0,51349,Conservative,UKIP,29151,6817,56.8,22334,43.49,69.9,52.3,47.7,-4.6,Conservative,False,False
+Rhondda,Wales,2116,15976,3998,474,0,453,0,8521,0,0,0,0,0,0,0,31538,Labour,Plaid Cymru,15976,8521,50.7,7455,23.64,60.9,38.8,61.2,22.4,Labour,False,False
+Ribble Valley,North West,25404,11798,8250,2756,0,2193,0,0,0,0,0,0,0,0,1842,52243,Conservative,Labour,25404,11798,48.6,13606,26.04,67.1,41.4,58.6,17.2,Conservative,False,False
+Richmond (Yorks),Yorkshire and The Humber,27744,7124,8194,3465,0,2313,0,0,0,0,0,0,3348,0,1811,53999,Conservative,UKIP,27744,8194,51.4,19550,36.2,64.7,45.4,54.6,9.2,Conservative,False,False
+Richmond Park,London,34404,7296,2464,11389,0,3548,0,0,0,0,0,0,0,0,0,59101,Conservative,Liberal Democrat,34404,11389,58.2,23015,38.94,76.5,73.3,27.7,-45.6,Conservative,False,True
+Rochdale,North West,7742,20961,8519,4667,0,1382,0,0,0,0,0,0,1535,0,624,45430,Labour,UKIP,20961,8519,46.1,12442,27.39,57.4,42.5,57.5,15.0,Labour,False,False
+Rochester and Strood,South East,23142,10396,16009,1251,0,1516,0,0,0,0,0,0,0,0,202,52516,Conservative,UKIP,23142,16009,44.1,7133,13.58,66.5,36.3,63.7,27.4,Conservative,False,False
+Rochford and Southend East,East,20241,10765,8948,1459,0,2195,0,0,0,0,0,0,0,0,0,43608,Conservative,Labour,20241,10765,46.4,9476,21.73,60.6,39.6,60.4,20.8,Conservative,False,False
+Romford,London,25067,10268,11208,1413,0,1222,0,0,0,0,0,0,0,0,0,49178,Conservative,UKIP,25067,11208,51.0,13859,28.18,67.7,30.8,69.2,38.4,Conservative,False,False
+Romsey and Southampton North,South East,26285,5749,5511,8573,0,2280,0,0,0,0,0,0,0,0,0,48398,Conservative,Liberal Democrat,26285,8573,54.3,17712,36.6,72.8,54.2,45.8,-8.4,Conservative,False,False
+"Ross, Skye and Lochaber",Scotland,2598,2043,814,14995,20119,1051,0,0,0,0,0,0,191,0,0,41811,SNP,Liberal Democrat,20119,14995,48.1,5124,12.26,77.2,56.7,43.3,-13.4,SNP,False,False
+Rossendale and Darwen,North West,22847,17193,6862,806,0,1046,0,0,0,0,0,0,0,0,270,49024,Conservative,Labour,22847,17193,46.6,5654,11.53,58.4,41.5,58.5,17.0,Conservative,False,False
+Rother Valley,Yorkshire and The Humber,10945,20501,13204,1992,0,0,0,0,0,0,0,0,0,0,377,47019,Labour,UKIP,20501,13204,43.6,7297,15.52,63.3,33.3,66.7,33.4,Labour,False,False
+Rotherham,Yorkshire and The Humber,4656,19860,11414,1093,0,0,0,0,0,0,0,0,0,0,800,37823,Labour,UKIP,19860,11414,52.5,8446,22.33,59.4,31.7,68.3,36.6,Labour,False,False
+Rugby,West Midlands,24040,13695,6855,2776,0,1415,0,0,0,0,0,0,0,0,225,49006,Conservative,Labour,24040,13695,49.1,10345,21.11,61.6,41.7,58.3,16.6,Conservative,False,False
+"Ruislip, Northwood and Pinner",London,30521,10297,5598,2537,0,1801,0,0,0,0,0,0,0,0,468,51222,Conservative,Labour,30521,10297,59.6,20224,39.48,70.0,51.0,49.0,-2.0,Conservative,False,False
+Runnymede and Weybridge,South East,29901,7767,6951,3362,0,2071,0,0,0,0,0,0,0,0,0,50052,Conservative,Labour,29901,7767,59.7,22134,44.22,67.9,50.2,49.8,-0.4,Conservative,False,False
+Rushcliffe,East Midlands,28354,14525,5943,2783,0,3559,0,0,0,0,0,0,0,0,0,55164,Conservative,Labour,28354,14525,51.4,13829,25.07,75.3,58.7,41.3,-17.4,Conservative,False,False
+Rutherglen and Hamilton West,Scotland,4350,20304,1301,1045,30279,0,0,0,0,0,0,0,0,0,336,57615,SNP,Labour,30279,20304,52.6,9975,17.31,69.6,62.7,37.3,-25.4,Labour,True,False
+Rutland and Melton,East Midlands,30383,8383,8678,4407,0,2325,0,0,0,0,0,0,0,0,427,54603,Conservative,UKIP,30383,8678,55.6,21705,39.75,68.4,46.1,53.9,7.8,Conservative,False,False
+Saffron Walden,East,32926,6791,7935,6079,0,2174,0,0,0,0,0,0,0,0,1658,57563,Conservative,UKIP,32926,7935,57.2,24991,43.42,71.4,49.1,50.9,1.8,Conservative,False,False
+Salford and Eccles,North West,8823,21364,7806,1614,0,2251,0,0,0,0,0,0,0,0,1403,43261,Labour,Conservative,21364,8823,49.4,12541,28.99,58.2,46.4,53.6,7.2,Labour,False,False
+Salisbury,South West,28192,7771,6152,5099,0,2762,0,0,0,0,0,0,0,0,729,50705,Conservative,Labour,28192,7771,55.6,20421,40.27,72.9,49.7,50.3,0.6,Conservative,False,False
+Scarborough and Whitby,Yorkshire and The Humber,20613,14413,8162,2159,0,2185,0,0,0,0,0,0,0,0,207,47739,Conservative,Labour,20613,14413,43.2,6200,12.99,64.9,38.7,61.3,22.6,Conservative,False,False
+Scunthorpe,Yorkshire and The Humber,12259,15393,6329,770,0,887,0,0,0,0,0,0,1097,0,206,36941,Labour,Conservative,15393,12259,41.7,3134,8.48,57.7,31.0,69.0,38.0,Labour,False,False
+Sedgefield,North East,11432,18275,6426,1370,0,1213,0,0,0,0,0,0,0,0,0,38716,Labour,Conservative,18275,11432,47.2,6843,17.67,61.6,41.1,58.9,17.8,Labour,False,False
+South East Cambridgeshire,East,28845,9013,6593,12008,0,3047,0,0,0,0,0,0,0,0,0,59506,Conservative,Liberal Democrat,28845,12008,48.5,16837,28.29,70.4,55.1,44.9,-10.2,Conservative,False,False
+South East Cornwall,South West,25516,4692,7698,8521,0,2718,0,0,0,0,0,0,0,0,1353,50498,Conservative,Liberal Democrat,25516,8521,50.5,16995,33.65,71.1,41.7,58.3,16.6,Conservative,False,False
+Sefton Central,North West,14513,26359,4879,2086,0,1184,0,0,0,0,0,0,0,0,0,49021,Labour,Conservative,26359,14513,53.8,11846,24.17,72.4,54.9,45.1,-9.8,Labour,False,False
+Selby and Ainsty,Yorkshire and The Humber,27725,14168,7389,1920,0,1465,0,0,0,0,0,0,0,0,137,52804,Conservative,Labour,27725,14168,52.5,13557,25.67,69.4,42.4,57.6,15.2,Conservative,False,False
+Sevenoaks,South East,28531,6448,8970,3937,0,2238,0,0,0,0,0,0,0,0,0,50124,Conservative,UKIP,28531,8970,56.9,19561,39.03,70.9,46.2,53.8,7.6,Conservative,False,False
+Sheffield Central,Yorkshire and The Humber,4917,24308,3296,4278,0,6999,0,0,0,0,0,0,0,0,375,44173,Labour,Green,24308,6999,55.0,17309,39.18,57.4,69.6,30.4,-39.2,Labour,False,False
+Sheffield South East,Yorkshire and The Humber,7242,21439,9128,2226,0,1117,0,0,0,0,0,0,0,0,533,41685,Labour,UKIP,21439,9128,51.4,12311,29.53,59.2,33.6,66.4,32.8,Labour,False,False
+Sheffield Brightside and Hillsborough,Yorkshire and The Humber,4407,22663,8856,1802,0,1712,0,0,0,0,0,0,0,0,613,40053,Labour,UKIP,22663,8856,56.6,13807,34.47,54.8,38.6,61.4,22.8,Labour,False,False
+Sheffield Hallam,Yorkshire and The Humber,7544,19862,3575,22215,0,1772,0,0,0,0,0,0,97,0,416,55481,Liberal Democrat,Labour,22215,19862,40.0,2353,4.24,75.3,64.1,35.9,-28.2,Labour,True,False
+Sheffield Heeley,Yorkshire and The Humber,6792,20269,7315,4746,0,2566,0,0,0,0,0,0,0,0,360,42048,Labour,UKIP,20269,7315,48.2,12954,30.81,60.7,42.4,57.6,15.2,Labour,False,False
+Sherwood,East Midlands,22833,18186,7399,1094,0,1108,0,0,0,0,0,0,0,0,78,50698,Conservative,Labour,22833,18186,45.0,4647,9.17,69.1,36.3,63.7,27.4,Conservative,False,False
+Shipley,Yorkshire and The Humber,25269,15645,4479,1949,0,2657,0,0,0,0,0,0,0,0,543,50542,Conservative,Labour,25269,15645,50.0,9624,19.04,71.7,48.5,51.5,3.0,Conservative,False,False
+Shrewsbury and Atcham,West Midlands,24628,15063,7813,4268,0,2247,0,0,0,0,0,0,0,0,83,54102,Conservative,Labour,24628,15063,45.5,9565,17.68,70.8,47.0,53.0,6.0,Conservative,False,False
+Sittingbourne and Sheppey,South East,24425,9673,12257,1563,0,1185,0,0,0,0,0,0,0,0,275,49378,Conservative,UKIP,24425,12257,49.5,12168,24.64,65.0,34.3,65.7,31.4,Conservative,False,False
+Skipton and Ripon,Yorkshire and The Humber,30248,9487,7651,4057,0,3116,0,0,0,0,0,0,0,0,0,54559,Conservative,Labour,30248,9487,55.4,20761,38.05,71.6,47.0,53.0,6.0,Conservative,False,False
+Sleaford and North Hykeham,East Midlands,34805,10690,9716,3500,0,0,0,0,0,0,0,0,0,0,3233,61944,Conservative,Labour,34805,10690,56.2,24115,38.93,70.2,38.5,61.5,23.0,Conservative,False,False
+Slough,South East,16085,23421,6274,1275,0,1220,0,0,0,0,0,0,0,0,0,48275,Labour,Conservative,23421,16085,48.5,7336,15.2,55.9,46.1,53.9,7.8,Labour,False,False
+Solihull,West Midlands,26956,5693,6361,14054,0,1632,0,0,0,0,0,0,0,0,83,54779,Conservative,Liberal Democrat,26956,14054,49.2,12902,23.55,70.9,46.7,53.3,6.6,Conservative,False,False
+Somerton and Frome,South West,31960,4419,6439,11692,0,5434,0,0,0,0,0,0,0,0,365,60309,Conservative,Liberal Democrat,31960,11692,53.0,20268,33.61,72.2,49.1,50.9,1.8,Conservative,False,False
+South Antrim,Northern Ireland,415,0,0,0,0,0,10993,0,4699,11942,2990,3576,0,0,1908,36523,Ulster Unionist,Democratic Unionist,11942,10993,32.7,949,2.6,54.2,49.4,50.6,1.2,Democratic Unionist,True,False
+South Basildon and East Thurrock,East,19788,11493,12097,1356,0,0,0,0,0,0,0,0,606,0,253,45593,Conservative,UKIP,19788,12097,43.4,7691,16.87,62.3,27.0,73.0,46.0,Conservative,False,False
+South Cambridgeshire,East,31454,10860,6010,9368,0,3848,0,0,0,0,0,0,0,0,0,61540,Conservative,Labour,31454,10860,51.1,20594,33.46,73.1,61.6,38.4,-23.2,Conservative,False,False
+South Derbyshire,East Midlands,25066,13595,8998,1887,0,1216,0,0,0,0,0,0,0,0,0,50762,Conservative,Labour,25066,13595,49.4,11471,22.6,68.2,39.7,60.3,20.6,Conservative,False,False
+South Dorset,South West,23756,11762,7304,2901,0,2275,0,0,0,0,0,0,0,0,599,48597,Conservative,Labour,23756,11762,48.9,11994,24.68,67.5,40.6,59.4,18.8,Conservative,False,False
+South Down,Northern Ireland,318,0,3044,0,0,0,3486,0,12186,3964,18077,1622,0,0,0,42697,SDLP,Sinn Fein,18077,12186,42.3,5891,13.8,56.8,67.2,32.8,-34.4,Sinn Fein,True,False
+South Holland and The Deepings,East Midlands,29303,6122,10736,1466,0,1580,0,0,0,0,0,0,0,0,0,49207,Conservative,UKIP,29303,10736,59.6,18567,37.73,63.9,28.9,71.1,42.2,Conservative,False,False
+South Leicestershire,East Midlands,28700,11876,9363,3987,0,0,0,0,0,0,0,0,0,0,0,53926,Conservative,Labour,28700,11876,53.2,16824,31.2,70.1,41.8,58.2,16.4,Conservative,False,False
+South Norfolk,East,30995,10502,7847,4689,0,3090,0,0,0,0,0,0,0,0,0,57123,Conservative,Labour,30995,10502,54.3,20493,35.88,72.4,48.9,51.1,2.2,Conservative,False,False
+South Northamptonshire,East Midlands,36607,10191,8204,3613,0,2247,0,0,0,0,0,0,0,0,0,60862,Conservative,Labour,36607,10191,60.1,26416,43.4,71.5,47.4,52.6,5.2,Conservative,False,False
+South Ribble,North West,24313,18368,7377,2312,0,0,0,0,0,0,0,0,0,0,0,52370,Conservative,Labour,24313,18368,46.4,5945,11.35,68.5,43.2,56.8,13.6,Conservative,False,False
+South Shields,North East,6021,18589,7975,639,0,1614,0,0,0,0,0,0,1427,0,0,36265,Labour,UKIP,18589,7975,51.3,10614,29.27,57.8,37.9,62.1,24.2,Labour,False,False
+South Staffordshire,West Midlands,29478,9107,8267,1448,0,1298,0,0,0,0,0,0,0,0,0,49598,Conservative,Labour,29478,9107,59.4,20371,41.07,58.9,34.8,65.2,30.4,Conservative,False,False
+South Suffolk,East,27546,10001,7897,4044,0,2253,0,0,0,0,0,0,0,0,166,51907,Conservative,Labour,27546,10001,53.1,17545,33.8,70.9,45.9,54.1,8.2,Conservative,False,False
+South Swindon,South West,22777,16992,5920,1817,0,1757,0,0,0,0,0,0,0,0,0,49263,Conservative,Labour,22777,16992,46.2,5785,11.74,66.6,48.5,51.5,3.0,Conservative,False,False
+South Thanet,South East,18838,11740,16026,932,0,1076,0,0,0,0,0,0,61,0,728,49401,Conservative,UKIP,18838,16026,38.1,2812,5.69,70.4,38.4,61.6,23.2,Conservative,False,False
+Southampton Itchen,South East,18656,16340,6010,1595,0,1876,0,0,0,0,0,0,0,0,233,44710,Conservative,Labour,18656,16340,41.7,2316,5.18,61.8,40.1,59.9,19.8,Conservative,False,False
+Southampton Test,South East,14207,18017,5566,2121,0,2568,0,0,0,0,0,0,0,0,1173,43652,Labour,Conservative,18017,14207,41.3,3810,8.73,62.1,49.4,50.6,1.2,Labour,False,False
+Southend West,East,22175,8154,7803,4129,0,2083,0,0,0,0,0,0,0,0,165,44509,Conservative,Labour,22175,8154,49.8,14021,31.5,66.6,45.0,55.0,10.0,Conservative,False,False
+Southport,North West,12330,8468,7429,13652,0,1230,0,0,0,0,0,0,0,0,992,44101,Liberal Democrat,Conservative,13652,12330,31.0,1322,3.0,65.5,54.5,45.5,-9.0,Conservative,True,False
+Spelthorne,South East,24386,9114,10234,3163,0,1724,0,0,0,0,0,0,0,0,458,49079,Conservative,UKIP,24386,10234,49.7,14152,28.84,68.6,39.7,60.3,20.6,Conservative,False,False
+St Albans,East,25392,12660,4271,10076,0,2034,0,0,0,0,0,0,0,0,0,54433,Conservative,Labour,25392,12660,46.6,12732,23.39,75.1,62.6,37.4,-25.2,Conservative,False,False
+St Austell and Newquay,South West,20250,5150,8503,12077,0,2318,0,0,0,0,0,0,0,0,2063,50361,Conservative,Liberal Democrat,20250,12077,40.2,8173,16.23,65.7,37.6,62.4,24.8,Conservative,False,False
+St Helens North,North West,9087,26378,6983,2046,0,1762,0,0,0,0,0,0,0,0,0,46256,Labour,Conservative,26378,9087,57.0,17291,37.38,61.5,41.8,58.2,16.4,Labour,False,False
+St Helens South and Whiston,North West,7707,28950,6766,2737,0,2237,0,0,0,0,0,0,0,0,0,48397,Labour,Conservative,28950,7707,59.8,21243,43.89,62.3,43.9,56.1,12.2,Labour,False,False
+St Ives,South West,18491,4510,5720,16022,0,3051,0,0,0,0,0,0,0,0,518,48312,Conservative,Liberal Democrat,18491,16022,38.3,2469,5.11,73.7,45.8,54.2,8.4,Conservative,False,False
+Stafford,West Midlands,23606,14429,6293,1348,0,1390,0,0,0,0,0,0,1701,0,0,48767,Conservative,Labour,23606,14429,48.4,9177,18.82,71.0,42.8,57.2,14.4,Conservative,False,False
+Staffordshire Moorlands,West Midlands,21770,11596,6236,1759,0,1226,0,0,0,0,0,0,0,0,0,42587,Conservative,Labour,21770,11596,51.1,10174,23.89,67.5,35.5,64.5,29.0,Conservative,False,False
+Stalybridge and Hyde,North West,11761,18447,7720,1256,0,1850,0,0,0,0,0,0,0,0,0,41034,Labour,Conservative,18447,11761,45.0,6686,16.29,59.4,40.7,59.3,18.6,Labour,False,False
+Stevenage,East,21291,16336,6864,1582,0,1369,0,0,0,0,0,0,0,0,357,47799,Conservative,Labour,21291,16336,44.5,4955,10.37,67.7,42.9,57.1,14.2,Conservative,False,False
+Stirling,Scotland,12051,13303,0,1392,23783,1606,0,0,0,0,0,0,0,0,0,52135,SNP,Labour,23783,13303,45.6,10480,20.1,77.5,67.7,32.3,-35.4,Conservative,True,False
+Stockport,North West,9710,19771,5206,3034,0,1753,0,0,0,0,0,0,0,0,175,39649,Labour,Conservative,19771,9710,49.9,10061,25.38,62.0,53.2,46.8,-6.4,Labour,False,False
+Stockton North,North East,11069,19436,7581,884,0,0,0,0,0,0,0,0,0,0,601,39571,Labour,Conservative,19436,11069,49.1,8367,21.14,59.8,33.5,66.5,33.0,Labour,False,False
+Stockton South,North East,24221,19175,5480,1366,0,952,0,0,0,0,0,0,0,0,603,51797,Conservative,Labour,24221,19175,46.8,5046,9.74,69.0,42.2,57.8,15.6,Labour,True,False
+Stoke-on-Trent Central,West Midlands,7008,12220,7041,1296,0,1123,0,0,0,0,0,0,2120,0,276,31084,Labour,UKIP,12220,7041,39.3,5179,16.66,49.9,35.0,65.0,30.0,Labour,False,False
+Stoke-on-Trent North,West Midlands,10593,15429,9542,1137,0,1091,0,0,0,0,0,0,0,0,862,38654,Labour,Conservative,15429,10593,39.9,4836,12.51,53.2,27.9,72.1,44.2,Labour,False,False
+Stoke-on-Trent South,West Midlands,12780,15319,8298,1309,0,1029,0,0,0,0,0,0,0,0,372,39107,Labour,Conservative,15319,12780,39.2,2539,6.49,56.9,29.2,70.8,41.6,Conservative,True,False
+Stone,West Midlands,25733,9483,7620,2473,0,1191,0,0,0,0,0,0,0,0,531,47031,Conservative,Labour,25733,9483,54.7,16250,34.55,69.8,42.0,58.0,16.0,Conservative,False,False
+Stourbridge,West Midlands,21195,14501,7774,1538,0,1021,0,0,0,0,0,0,0,0,0,46029,Conservative,Labour,21195,14501,46.0,6694,14.54,66.6,36.4,63.6,27.2,Conservative,False,False
+Strangford,Northern Ireland,2167,0,2237,0,0,0,15053,0,876,4868,2335,4687,0,0,1701,33924,Democratic Unionist,Ulster Unionist,15053,4868,44.4,10185,30.02,52.8,44.5,55.5,11.0,Democratic Unionist,False,False
+Stratford-on-Avon,West Midlands,29674,6677,6798,6182,0,2128,0,0,0,0,0,0,0,0,0,51459,Conservative,UKIP,29674,6798,57.7,22876,44.45,72.6,48.9,51.1,2.2,Conservative,False,False
+Streatham,London,12540,26474,1602,4491,0,4421,0,0,0,0,0,0,0,0,405,49933,Labour,Conservative,26474,12540,53.0,13934,27.91,63.5,79.5,20.5,-59.0,Labour,False,False
+Stretford and Urmston,North West,12916,24601,5068,1362,0,2187,0,0,0,0,0,0,0,0,252,46386,Labour,Conservative,24601,12916,53.0,11685,25.19,66.8,51.6,48.4,-3.2,Labour,False,False
+Stroud,South West,27813,22947,4848,2086,0,2779,0,0,0,0,0,0,0,0,346,60819,Conservative,Labour,27813,22947,45.7,4866,8.0,75.5,54.1,45.9,-8.2,Labour,True,False
+Suffolk Coastal,East,28855,10013,8655,4777,0,3294,0,0,0,0,0,0,0,0,0,55594,Conservative,Labour,28855,10013,51.9,18842,33.89,71.7,44.2,55.8,11.6,Conservative,False,False
+Sunderland Central,North East,9780,20959,7997,1105,0,1706,0,0,0,0,0,0,0,0,215,41762,Labour,Conservative,20959,9780,50.2,11179,26.77,57.3,40.0,60.0,20.0,Labour,False,False
+Surrey Heath,South East,32582,6100,7778,4937,0,2400,0,0,0,0,0,0,0,0,634,54431,Conservative,UKIP,32582,7778,59.9,24804,45.57,68.5,48.1,51.9,3.8,Conservative,False,False
+Sutton and Cheam,London,20732,5546,5341,16811,0,1051,0,0,0,0,0,0,0,0,424,49905,Conservative,Liberal Democrat,20732,16811,41.5,3921,7.86,72.2,48.8,51.2,2.4,Conservative,False,False
+Sutton Coldfield,West Midlands,27782,11365,7489,2627,0,1426,0,0,0,0,0,0,0,0,165,50854,Conservative,Labour,27782,11365,54.6,16417,32.28,67.8,48.3,51.7,3.4,Conservative,False,False
+Swansea East,Wales,5142,17807,5779,1392,0,0,0,3498,0,0,0,0,0,0,0,33618,Labour,UKIP,17807,5779,53.0,12028,35.78,58.0,38.0,62.0,24.0,Labour,False,False
+Swansea West,Wales,7931,14967,4744,3178,0,1784,0,2266,0,0,0,0,78,0,208,35156,Labour,Conservative,14967,7931,42.6,7036,20.01,59.8,57.4,42.6,-14.8,Labour,False,False
+South West Bedfordshire,East,28212,10399,7941,2646,0,2106,0,0,0,0,0,0,0,0,0,51304,Conservative,Labour,28212,10399,55.0,17813,34.72,64.4,41.4,58.6,17.2,Conservative,False,False
+South West Devon,South West,28500,8391,7306,3767,0,2408,0,0,0,0,0,0,0,0,0,50372,Conservative,Labour,28500,8391,56.6,20109,39.92,70.9,44.8,55.2,10.4,Conservative,False,False
+South West Hertfordshire,East,32608,9345,6603,5872,0,2583,0,0,0,0,0,0,0,0,256,57267,Conservative,Labour,32608,9345,56.9,23263,40.62,71.9,53.7,46.3,-7.4,Conservative,False,False
+South West Norfolk,East,25515,8649,11654,2217,0,2075,0,0,0,0,0,0,0,0,0,50110,Conservative,UKIP,25515,11654,50.9,13861,27.66,65.1,33.8,66.2,32.4,Conservative,False,False
+South West Surrey,South East,34199,5415,5643,3586,0,3105,0,0,0,0,0,0,4851,0,320,57119,Conservative,UKIP,34199,5643,50.4,28556,49.99,74.1,59.4,40.6,-18.8,Conservative,False,False
+South West Wiltshire,South West,27198,6948,9030,5482,0,2985,0,0,0,0,0,0,0,0,0,51643,Conservative,UKIP,27198,9030,52.7,18168,35.18,70.7,42.4,57.6,15.2,Conservative,False,False
+Tamworth,West Midlands,23606,12304,8727,1427,0,1110,0,0,0,0,0,0,0,0,0,47174,Conservative,Labour,23606,12304,50.0,11302,23.96,65.6,34.0,66.0,32.0,Conservative,False,False
+Tatton,North West,26552,8311,4871,3850,0,1714,0,0,0,0,0,0,0,0,0,45298,Conservative,Labour,26552,8311,58.6,18241,40.27,70.2,54.2,45.8,-8.4,Conservative,False,False
+Taunton Deane,South West,27849,5347,6921,12358,0,2630,0,0,0,0,0,0,2568,0,214,57887,Conservative,Liberal Democrat,27849,12358,48.1,15491,26.76,70.7,47.1,52.9,5.8,Conservative,False,False
+Telford,West Midlands,16094,15364,7330,927,0,930,0,0,0,0,0,0,0,0,0,40645,Conservative,Labour,16094,15364,39.6,730,1.8,61.4,33.0,67.0,34.0,Conservative,False,False
+Tewkesbury,South West,30176,8204,7128,7629,0,2207,0,0,0,0,0,0,0,0,0,55344,Conservative,Labour,30176,8204,54.5,21972,39.7,70.5,46.3,53.7,7.4,Conservative,False,False
+The Cotswolds,South West,32045,5240,6188,10568,0,2626,0,0,0,0,0,0,0,0,0,56667,Conservative,Liberal Democrat,32045,10568,56.5,21477,37.9,72.4,52.3,47.7,-4.6,Conservative,False,False
+The Wrekin,West Midlands,22579,11836,7620,1959,0,1443,0,0,0,0,0,0,0,0,0,45437,Conservative,Labour,22579,11836,49.7,10743,23.64,68.9,41.8,58.2,16.4,Conservative,False,False
+Thirsk and Malton,Yorkshire and The Humber,27545,8089,7805,4703,0,2404,0,0,0,0,0,0,0,0,1819,52365,Conservative,Labour,27545,8089,52.6,19456,37.15,67.6,43.6,56.4,12.8,Conservative,False,False
+Thornbury and Yate,South West,19924,3775,5126,18429,0,1316,0,0,0,0,0,0,0,0,0,48570,Conservative,Liberal Democrat,19924,18429,41.0,1495,3.08,73.7,46.7,53.3,6.6,Conservative,False,False
+Thurrock,East,16692,16156,15718,644,0,0,0,0,0,0,0,0,0,0,354,49564,Conservative,Labour,16692,16156,33.7,536,1.08,63.9,29.8,70.2,40.4,Conservative,False,False
+Tiverton and Honiton,South West,29030,6835,8857,5626,0,3415,0,0,0,0,0,0,0,0,0,53763,Conservative,UKIP,29030,8857,54.0,20173,37.52,70.5,42.4,57.6,15.2,Conservative,False,False
+Tonbridge and Malling,South East,31887,7604,8153,3660,0,2366,0,0,0,0,0,0,0,0,0,53670,Conservative,UKIP,31887,8153,59.4,23734,44.22,71.7,47.5,52.5,5.0,Conservative,False,False
+Tooting,London,22421,25263,1537,2107,0,2201,0,0,0,0,0,0,0,0,0,53529,Labour,Conservative,25263,22421,47.2,2842,5.31,69.7,74.7,25.3,-49.4,Labour,False,False
+Torbay,South West,19551,4166,6540,16265,0,1557,0,0,0,0,0,0,0,0,0,48079,Conservative,Liberal Democrat,19551,16265,40.7,3286,6.83,63.0,37.4,62.6,25.2,Conservative,False,False
+Torfaen,Wales,8769,16938,7203,1271,0,746,0,2169,0,0,0,0,0,0,841,37937,Labour,Conservative,16938,8769,44.6,8169,21.53,61.3,39.2,60.8,21.6,Labour,False,False
+Torridge and West Devon,South West,28774,6015,10371,7483,0,3941,0,0,0,0,0,0,0,0,0,56584,Conservative,UKIP,28774,10371,50.9,18403,32.52,72.0,43.0,57.0,14.0,Conservative,False,False
+Totnes,South West,24941,5988,6656,4667,0,4845,0,0,0,0,0,0,0,0,0,47097,Conservative,UKIP,24941,6656,53.0,18285,38.82,68.6,46.0,54.0,8.0,Conservative,False,False
+Tottenham,London,5090,28654,1512,1756,0,3931,0,0,0,0,0,0,1324,0,291,42558,Labour,Conservative,28654,5090,67.3,23564,55.37,60.1,76.2,23.8,-52.4,Labour,False,False
+Truro and Falmouth,South West,22681,7814,5967,8681,0,4483,0,0,0,0,0,0,0,0,1918,51544,Conservative,Liberal Democrat,22681,8681,44.0,14000,27.16,70.0,52.9,47.1,-5.8,Conservative,False,False
+Tunbridge Wells,South East,30181,7307,6481,4342,0,2659,0,0,0,0,0,0,0,0,458,51428,Conservative,Labour,30181,7307,58.7,22874,44.48,70.0,55.3,44.7,-10.6,Conservative,False,False
+Twickenham,London,25580,7129,3069,23563,0,2463,0,0,0,0,0,0,0,0,200,62004,Conservative,Liberal Democrat,25580,23563,41.3,2017,3.25,77.3,66.4,33.6,-32.8,Liberal Democrat,True,False
+Tynemouth,North East,17551,25791,6541,1595,0,2017,0,0,0,0,0,0,0,0,0,53495,Labour,Conservative,25791,17551,48.2,8240,15.4,69.0,52.2,47.8,-4.4,Labour,False,False
+Upper Bann,Northern Ireland,201,0,0,0,0,0,15430,0,11593,13166,4238,1780,0,0,811,47219,Democratic Unionist,Ulster Unionist,15430,13166,32.7,2264,4.79,59.0,47.4,52.6,5.2,Democratic Unionist,False,False
+Uxbridge and South Ruislip,London,22511,11816,6346,2215,0,1414,0,0,0,0,0,0,0,0,509,44811,Conservative,Labour,22511,11816,50.2,10695,23.87,63.4,43.7,56.3,12.6,Conservative,False,False
+Vale of Clwyd,Wales,13760,13523,4577,915,0,0,0,2486,0,0,0,0,0,0,0,35261,Conservative,Labour,13760,13523,39.0,237,0.67,62.4,44.1,55.9,11.8,Labour,True,False
+Vale of Glamorgan,Wales,23607,16727,5489,1309,0,1054,0,2869,0,0,0,0,0,0,238,51293,Conservative,Labour,23607,16727,46.0,6880,13.41,71.1,47.7,52.3,4.6,Conservative,False,False
+Vauxhall,London,13070,25778,1385,3312,0,3658,0,0,0,0,0,0,0,0,738,47941,Labour,Conservative,25778,13070,53.8,12708,26.51,58.7,77.6,22.4,-55.2,Labour,False,False
+Wakefield,Yorkshire and The Humber,14688,17301,7862,1483,0,1069,0,0,0,0,0,0,0,0,570,42973,Labour,Conservative,17301,14688,40.3,2613,6.08,60.9,37.4,62.6,25.2,Labour,False,False
+Wallasey,North West,9828,26176,5063,1011,0,1288,0,0,0,0,0,0,0,0,0,43366,Labour,Conservative,26176,9828,60.4,16348,37.7,66.2,50.1,49.9,-0.2,Labour,False,False
+Walsall North,West Midlands,12455,14392,8122,840,0,529,0,0,0,0,0,0,0,0,554,36892,Labour,Conservative,14392,12455,39.0,1937,5.25,55.0,25.8,74.2,48.4,Conservative,True,False
+Walsall South,West Midlands,13733,19740,6540,676,0,1149,0,0,0,0,0,0,0,0,0,41838,Labour,Conservative,19740,13733,47.2,6007,14.36,61.8,38.4,61.6,23.2,Labour,False,False
+Walthamstow,London,5584,28779,2507,1661,0,2661,0,0,0,0,0,0,0,0,604,41796,Labour,Conservative,28779,5584,68.9,23195,55.5,62.1,66.5,33.5,-33.0,Labour,False,False
+Wansbeck,North East,8386,19267,7014,2407,0,1454,0,0,0,0,0,0,0,0,0,38528,Labour,Conservative,19267,8386,50.0,10881,28.24,60.9,43.9,56.1,12.2,Labour,False,False
+Wantage,South East,31092,9343,7288,7611,0,2986,0,0,0,0,0,0,0,0,0,58320,Conservative,Labour,31092,9343,53.3,21749,37.29,69.8,53.6,46.4,-7.2,Conservative,False,False
+Warley,West Midlands,7310,22012,6237,805,0,1465,0,0,0,0,0,0,0,0,0,37829,Labour,Conservative,22012,7310,58.2,14702,38.86,59.3,38.2,61.8,23.6,Labour,False,False
+Warrington North,North West,12797,21720,7757,1881,0,1264,0,0,0,0,0,0,0,0,0,45419,Labour,Conservative,21720,12797,47.8,8923,19.65,62.5,41.4,58.6,17.2,Labour,False,False
+Warrington South,North West,25928,23178,4909,3335,0,1765,0,0,0,0,0,0,0,0,238,59353,Conservative,Labour,25928,23178,43.7,2750,4.63,69.4,49.4,50.6,1.2,Labour,True,False
+Warwick and Leamington,West Midlands,24249,17643,4183,2512,0,1994,0,0,0,0,0,0,0,0,0,50581,Conservative,Labour,24249,17643,47.9,6606,13.06,70.5,58.9,41.1,-17.8,Labour,True,False
+Washington and Sunderland West,North East,7033,20478,7321,993,0,1091,0,0,0,0,0,0,0,0,341,37257,Labour,UKIP,20478,7321,55.0,13157,35.31,54.6,38.1,61.9,23.8,Labour,False,False
+Watford,East,24400,14606,5481,10152,0,1332,0,0,0,0,0,0,0,0,178,56149,Conservative,Labour,24400,14606,43.5,9794,17.44,66.6,48.9,51.1,2.2,Conservative,False,False
+Waveney,East,22104,19696,7580,1055,0,1761,0,0,0,0,0,0,0,0,0,52196,Conservative,Labour,22104,19696,42.3,2408,4.61,65.1,36.8,63.2,26.4,Conservative,False,False
+Wealden,South East,32508,6165,9541,5180,0,3623,0,0,0,0,0,0,0,0,0,57017,Conservative,UKIP,32508,9541,57.0,22967,40.28,71.0,47.5,52.5,5.0,Conservative,False,False
+Weaver Vale,North West,20227,19421,4547,1395,0,1183,0,0,0,0,0,0,0,0,94,46867,Conservative,Labour,20227,19421,43.2,806,1.72,68.5,49.9,50.1,0.2,Labour,True,False
+Wellingborough,East Midlands,26265,9839,9868,2240,0,2218,0,0,0,0,0,0,0,0,0,50430,Conservative,UKIP,26265,9868,52.1,16397,32.51,65.4,37.1,62.9,25.8,Conservative,False,False
+Wells,South West,26247,3780,5644,18662,0,2331,0,0,0,0,0,0,159,0,81,56904,Conservative,Liberal Democrat,26247,18662,46.1,7585,13.33,71.7,46.6,53.4,6.8,Conservative,False,False
+Welwyn Hatfield,East,25281,13128,6556,3140,0,1742,0,0,0,0,0,0,0,0,358,50205,Conservative,Labour,25281,13128,50.4,12153,24.21,68.5,47.5,52.5,5.0,Conservative,False,False
+Wentworth and Dearne,Yorkshire and The Humber,6441,24571,10733,1135,0,0,0,0,0,0,0,0,0,0,309,43189,Labour,UKIP,24571,10733,56.9,13838,32.04,58.1,31.1,68.9,37.8,Labour,False,False
+West Aberdeenshire and Kincardine,Scotland,15916,2487,1006,11812,22949,885,0,0,0,0,0,0,141,0,0,55196,SNP,Conservative,22949,15916,41.58,7033,12.74,75.2,61.4,38.6,-22.8,Conservative,True,False
+West Bromwich East,West Midlands,9347,18817,7949,751,0,628,0,0,0,0,0,0,0,0,0,37492,Labour,Conservative,18817,9347,50.2,9470,25.26,58.9,32.5,67.5,35.0,Labour,False,False
+West Bromwich West,West Midlands,8365,16578,8836,550,0,697,0,0,0,0,0,0,0,0,0,35026,Labour,UKIP,16578,8836,47.3,7742,22.1,53.4,30.9,69.1,38.2,Labour,False,False
+West Dorset,South West,28329,5633,7055,12199,0,3242,0,0,0,0,0,0,0,0,0,56458,Conservative,Liberal Democrat,28329,12199,50.2,16130,28.57,72.0,49.1,50.9,1.8,Conservative,False,False
+West Dunbartonshire,Scotland,3597,16027,0,816,30198,0,0,0,0,0,0,0,503,0,0,51141,SNP,Labour,30198,16027,59.0,14171,27.71,73.9,62.0,38.0,-24.0,SNP,False,False
+West Ham,London,8146,36132,3950,1430,0,2651,0,0,0,0,0,0,0,0,484,52793,Labour,Conservative,36132,8146,68.4,27986,53.01,58.2,52.7,47.3,-5.4,Labour,False,False
+West Lancashire,North West,16114,24474,6058,1298,0,1582,0,0,0,0,0,0,0,0,150,49676,Labour,Conservative,24474,16114,49.3,8360,16.83,70.0,45.1,54.9,9.8,Labour,False,False
+West Suffolk,East,25684,8604,10700,2465,0,1779,0,0,0,0,0,0,0,0,0,49232,Conservative,UKIP,25684,10700,52.2,14984,30.44,64.6,36.8,63.2,26.4,Conservative,False,False
+West Tyrone,Northern Ireland,169,0,0,0,0,780,6747,0,16807,6144,6444,869,166,0,528,38654,Sinn Fein,Democratic Unionist,16807,6747,43.5,10060,26.03,60.5,66.8,33.2,-33.6,Sinn Fein,False,False
+West Worcestershire,West Midlands,30342,7244,7764,5245,0,3505,0,0,0,0,0,0,0,0,0,54100,Conservative,UKIP,30342,7764,56.1,22578,41.73,73.7,47.5,52.5,5.0,Conservative,False,False
+Westminster North,London,16527,18504,1489,1457,0,1322,0,0,0,0,0,0,0,0,215,39514,Labour,Conservative,18504,16527,46.8,1977,5.0,63.4,67.1,32.9,-34.2,Labour,False,False
+Westmorland and Lonsdale,North West,16245,2661,3031,25194,0,1798,0,0,0,0,0,0,0,0,0,48929,Liberal Democrat,Conservative,25194,16245,51.5,8949,18.29,74.3,52.6,47.4,-5.2,Liberal Democrat,False,False
+Weston-super-Mare,South West,25203,9594,9366,5486,0,2592,0,0,0,0,0,0,0,0,311,52552,Conservative,Labour,25203,9594,48.0,15609,29.7,66.1,43.4,56.6,13.2,Conservative,False,False
+Wigan,North West,9389,23625,8818,1255,0,1273,0,0,0,0,0,0,0,0,933,45293,Labour,Conservative,23625,9389,52.2,14236,31.43,59.5,37.3,62.7,25.4,Labour,False,False
+Wimbledon,London,25225,12606,2476,6129,0,1986,0,0,0,0,0,0,0,0,0,48422,Conservative,Labour,25225,12606,52.1,12619,26.06,73.5,70.6,29.4,-41.2,Conservative,False,False
+Winchester,South East,30425,4613,4122,13511,0,2645,0,0,0,0,0,0,0,0,0,55316,Conservative,Liberal Democrat,30425,13511,55.0,16914,30.58,74.6,60.3,39.7,-20.6,Conservative,False,False
+Windsor,South East,31797,6714,4992,4323,0,1834,0,0,0,0,0,0,0,0,500,50160,Conservative,Labour,31797,6714,63.4,25083,50.01,72.9,54.0,46.0,-8.0,Conservative,False,False
+Wirral South,North West,15566,20165,3737,1474,0,895,0,0,0,0,0,0,0,0,0,41837,Labour,Conservative,20165,15566,48.2,4599,10.99,73.5,53.4,46.6,-6.8,Labour,False,False
+Wirral West,North West,18481,18898,2772,1433,0,0,0,0,0,0,0,0,0,0,274,41858,Labour,Conservative,18898,18481,45.1,417,1.0,75.6,55.3,44.7,-10.6,Labour,False,False
+Witham,East,27123,7467,7569,2891,0,2038,0,0,0,0,0,0,0,0,80,47168,Conservative,UKIP,27123,7569,57.5,19554,41.46,70.3,39.2,60.8,21.6,Conservative,False,False
+Witney,South East,35201,10046,5352,3953,0,2970,0,0,0,0,0,0,106,0,854,58482,Conservative,Labour,35201,10046,60.2,25155,43.01,73.3,53.7,46.3,-7.4,Conservative,False,False
+Woking,South East,29199,8389,5873,6047,0,2109,0,0,0,0,0,0,0,0,347,51964,Conservative,Labour,29199,8389,56.2,20810,40.05,70.0,56.0,44.0,-12.0,Conservative,False,False
+Wokingham,South East,32329,8132,5516,7572,0,2092,0,0,0,0,0,0,0,0,358,55999,Conservative,Labour,32329,8132,57.7,24197,43.21,71.9,57.6,42.4,-15.2,Conservative,False,False
+Wolverhampton North East,West Midlands,10174,15669,6524,935,0,701,0,0,0,0,0,0,0,0,0,34003,Labour,Conservative,15669,10174,46.1,5495,16.16,55.7,32.3,67.7,35.4,Labour,False,False
+Wolverhampton South East,West Midlands,7761,18539,7061,798,0,605,0,0,0,0,0,0,0,0,0,34764,Labour,Conservative,18539,7761,53.3,10778,31.0,55.6,31.8,68.2,36.4,Labour,False,False
+Wolverhampton South West,West Midlands,16573,17374,4310,845,0,1058,0,0,0,0,0,0,0,0,49,40209,Labour,Conservative,17374,16573,43.2,801,1.99,66.6,45.6,54.6,9.0,Labour,False,False
+Worcester,West Midlands,22534,16888,6378,1677,0,2024,0,0,0,0,0,0,0,0,222,49723,Conservative,Labour,22534,16888,45.3,5646,11.35,70.0,46.3,53.7,7.4,Conservative,False,False
+Workington,North West,11596,16282,7538,1708,0,1149,0,0,0,0,0,0,0,0,190,38463,Labour,Conservative,16282,11596,42.3,4686,12.18,65.6,39.7,60.3,20.6,Labour,False,False
+Worsley and Eccles South,North West,12654,18600,7688,1100,0,1242,0,0,0,0,0,0,0,0,764,42048,Labour,Conservative,18600,12654,44.2,5946,14.14,58.3,40.2,59.8,19.6,Labour,False,False
+Worthing West,South East,26124,7955,9269,4477,0,2938,0,0,0,0,0,0,0,0,0,50763,Conservative,UKIP,26124,9269,51.5,16855,33.2,67.1,43.9,56.1,12.2,Conservative,False,False
+Wrexham,Wales,10350,12181,5072,1735,0,669,0,2501,0,0,0,0,211,0,0,32719,Labour,Conservative,12181,10350,37.2,1831,5.6,64.2,42.7,57.3,14.6,Labour,False,False
+Wycombe,South East,26444,11588,5198,4546,0,3086,0,0,0,0,0,0,0,0,577,51439,Conservative,Labour,26444,11588,51.4,14856,28.88,67.4,52.0,48.0,-4.0,Conservative,False,False
+Wyre and Preston North,North West,26528,12377,6577,2712,0,1699,0,0,0,0,0,0,0,0,0,49893,Conservative,Labour,26528,12377,53.2,14151,28.36,70.6,46.0,54.0,8.0,Conservative,False,False
+Wyre Forest,West Midlands,22394,9523,7967,1228,0,1117,0,0,0,0,0,0,7211,0,0,49440,Conservative,Labour,22394,9523,45.3,12871,26.03,63.8,36.9,63.1,26.2,Conservative,False,False
+Wythenshawe and Sale East,North West,11124,21693,6354,1927,0,1658,0,0,0,0,0,0,0,0,507,43263,Labour,Conservative,21693,11124,50.1,10569,24.43,56.9,50.2,49.8,-0.4,Labour,False,False
+Yeovil,South West,24178,4053,7646,18865,0,2191,0,0,0,0,0,0,0,0,0,56933,Conservative,Liberal Democrat,24178,18865,42.5,5313,9.33,69.1,40.8,59.2,18.4,Conservative,False,False
+Ynys Mon,Wales,7393,10871,5121,751,0,0,0,10642,0,0,0,0,0,0,148,34926,Labour,Plaid Cymru,10871,10642,31.1,229,0.66,69.9,49.1,50.9,1.8,Labour,False,False
+York Central,Yorkshire and The Humber,13496,20212,4795,3804,0,4791,0,0,0,0,0,0,0,0,579,47677,Labour,Conservative,20212,13496,42.4,6716,14.09,63.3,61.5,38.5,-23.0,Labour,False,False
+York Outer,Yorkshire and The Humber,26477,13348,5251,6269,0,2558,0,0,0,0,0,0,0,0,0,53903,Conservative,Labour,26477,13348,49.1,13129,24.36,68.6,55.1,44.9,-10.2,Conservative,False,False
