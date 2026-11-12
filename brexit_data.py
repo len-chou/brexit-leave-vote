@@ -17,7 +17,23 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 
-DATA_DIR = Path(__file__).resolve().parent.parent / "data"  # the data folder at the root of the repo
+def _find_data_dir() -> Path:
+    """
+    Find the folder that holds gb_areas_clean.csv, wherever app.py sits:
+    a data/ folder next to this file, a data/ folder one level up (repo root),
+    or the same folder as this file.
+    """
+    here = Path(__file__).resolve().parent
+    for folder in (here / "data", here.parent / "data", here):
+        if (folder / "gb_areas_clean.csv").exists():
+            return folder
+    raise FileNotFoundError(
+        "gb_areas_clean.csv not found. Put it in a 'data' folder next to app.py "
+        f"(looked in {here / 'data'}, {here.parent / 'data'} and {here})."
+    )
+
+
+DATA_DIR = _find_data_dir()
 
 # Readable names for every measure (the CSV column -> the label shown in the app)
 MEASURES = {
